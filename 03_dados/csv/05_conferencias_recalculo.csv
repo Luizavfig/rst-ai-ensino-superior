@@ -1,0 +1,92 @@
+﻿Conferência,Valor no texto do TCC2,Valor recalculado,Resultado
+Tabela 2: nº de estudos incluídos,34,34,OK
+Tabela 5: nº de estudos com magnitude de efeito,22,22,OK
+Apêndice C.1: nº de exclusões,19,19,OK
+Apêndice C.2: nº de não recuperados,5,5,OK
+Apêndice D: nº de desvios,22,22,OK
+Fluxo: 968 + 333 + 5 = 1306,1306,1306,OK
+Fluxo: 333 = CE4 172 + CE1 102 + CE6 48 + CE7 11,333,333,OK
+Fluxo: 981 + 325 = 1306 (Scopus + IEEE triados),1306,1306,OK
+Fluxo: 861 + 107 = 968 (aprovados Scopus + IEEE),968,968,OK
+Fluxo: 936 + 336 + 1217 = 2489 (brutos),2489,2489,OK
+Fluxo: 74 - 11 + 1 = 64,64,64,OK
+Fluxo: 968 - 64 = 904 (contextualização),904,904,OK
+Fluxo: 6 + 58 = 64,64,64,OK
+Fluxo: 53 + 5 = 58,58,58,OK
+Fluxo: 19 + 34 = 53,53,53,OK
+Exclusões: CE1 5 + CE2 1 + CI2 3 + CI3 5 + CI5 1 + CI1 4 = 19,19,19,OK
+Apêndice C: CE1,5,5,OK
+Apêndice C: CE2,1,1,OK
+Apêndice C: CI2,3,3,OK
+Apêndice C: CI3,5,5,OK
+Apêndice C: CI5,1,1,OK
+Apêndice C: CI1,4,4,OK
+Incluídos 2019,1,1,OK
+Incluídos 2024,9,9,OK
+Incluídos 2025,18,18,OK
+Incluídos 2026,6,6,OK
+Incluídos 2024–2026,33,33,OK
+53 avaliados: 49 de 2024–2026,49,49,OK
+53 avaliados: 4 anteriores a 2024,4,4,OK
+Incluídos sem ressalva,9,9,OK
+Incluídos com ressalva,25,25,OK
+Notas Q1–Q8 da planilha reproduzem os 34 totais da Tabela 2,0,0,OK
+Nota média (equiv. 8),5.87,5.87,OK
+Mediana (equiv. 8),6.0,6.0,OK
+Mínimo,3.5,3.5,OK
+Máximo,8.0,8.0,OK
+"≥ 2,0",34,34,OK
+"≥ 3,0",34,34,OK
+"≥ 4,0",33,33,OK
+"≥ 6,0",19,19,OK
+Média dos 9 sem ressalvas,6.19,6.19,OK
+Média dos 25 com ressalvas,5.76,5.76,OK
+"Nenhum incluído com nota bruta < 3,5",0,0,OK
+"Avaliados (excluídos) com nota bruta < 3,0",6,6,OK
+Média Q1 (n=34),1.0,1,OK
+Média Q2 (n=34),0.69,0.69,OK
+Média Q3 (n=34),0.85,0.85,OK
+Média Q4 (n=34),0.6,0.6,OK
+Média Q5 (n=33),0.33,0.33,OK
+Média Q6 (n=34),0.87,0.87,OK
+Média Q7 (n=34),0.74,0.74,OK
+Média Q8 (n=34),0.78,0.78,OK
+Q5 aplicável: n,33,33,OK
+Q5 = Não,17,17,OK
+Q5 = Parcial,10,10,OK
+Q5 = Sim,6,6,OK
+Nível Forte,5,5,OK
+Nível Moderado,17,17,OK
+Nível Fraco,11,11,OK
+Nível Inconclusivo,1,1,OK
+"Tabela 4 – IA generativa, LLM e ChatGPT",22,22,OK
+Tabela 4 – Chatbots e agentes conversacionais,13,13,OK
+Tabela 4 – Tutoria inteligente e aprendizagem adaptativa,9,9,OK
+Tabela 4 – Avaliação e feedback automatizados (inclui tr,4,4,OK
+Tabela 4 – Learning analytics e análise preditiva,5,5,OK
+"Tabela 4 – Aprendizado de máquina, aprendizado profundo,",7,7,OK
+"Tabela 6 – Dependência e ""preguiça metacognitiva""",11,11,OK
+Tabela 6 – Privacidade e segurança de dados,12,12,OK
+Tabela 6 – Viés algorítmico e equidade,8,8,OK
+Tabela 6 – Integridade acadêmica e plágio,6,6,OK
+"Tabela 6 – Falta de letramento em IA, formação docente e",9,9,OK
+Tabela 6 – Transparência e explicabilidade,6,6,OK
+Tabela 6 – Exatidão e confiabilidade das respostas,4,4,OK
+IDs das Tabelas 4 e 6 pertencem aos 34 incluídos,0,0,OK
+IDs da Tabela 5 pertencem aos 34 incluídos,0,0,OK
+IDs das listas de RQ e framework pertencem aos 34 incluídos,0,0,OK
+Framework: D3 cita 12 estudos (Tabela 7),12,12,OK
+Framework: D4 cita 8 estudos (Tabela 7),8,8,OK
+Framework: D2 integridade cita 6 estudos (Tabela 7),6,6,OK
+Framework: D5 cita 6 estudos (Tabela 7),6,6,OK
+Framework: D6 cita 9 estudos (Tabela 7),9,9,OK
+Framework: D7 tendência em 9 estudos (Tabela 7),9,9,OK
+Estudos incluídos sem nenhuma relação com RQ1–RQ4 nas listas,0,0,OK
+Cruzamento Fase 1 (PDF) × lista oficial: 1º autor e ano coincidem,52,50,2 divergência(s) explicada(s) na aba 7
+Cenário A (sem IA clássica): nº de estudos,30,30,OK
+Cenário A (sem IA clássica): nota média (equiv. 8),5.81,5.81,OK
+"Cenário A (sem IA clássica): estudos com nota ≥ 6,0",15,15,OK
+Cenário B (corte pela data da busca): nº de estudos,38,38,OK
+Cenário B (corte pela data da busca): nota média (equiv. 8),5.93,5.93,OK
+"Cenário B (corte pela data da busca): estudos com nota ≥ 6,0",22,22,OK
+Cenário A: Tabela 5 com 19 estudos,19,19,OK

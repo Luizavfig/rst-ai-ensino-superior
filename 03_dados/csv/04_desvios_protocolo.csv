@@ -1,0 +1,23 @@
+﻿#,Item,Planejado,Executado,Fonte,Efeito
+D1,Bases,"Três bases (Scopus, IEEE Xplore, ACM; protocolo, Tab. 2)",Duas bases na triagem (ACM não incorporada),Protocolo Tab. 2; log de triagem,Cobertura menor que a planejada; ACM com 1.217 registros fora da triagem
+D2,Contagem de identificação,2.489 brutos (936 + 336 + 1.217),1.306 triados (981 + 325),Protocolo; relatório de triagem,Contagens não reconciliadas por documento
+D3,Duplicatas,Registro do número removido (§4.2),[INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS],—,PRISMA 2020 exige o número; não pode ser criado
+D4,Data e ferramenta da busca,Registro da data de execução,[INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS],—,Impede verificar o corte de 31/03/2026 (D13); quatro registros com data posterior ao corte estavam no corpus de 968
+D5,Pré-registro,Identificador do protocolo,Sem identificador de pré-registro nos documentos,TCC1 v2,Limitação de transparência
+D6,Incertos da triagem (5),Promoção ao texto completo (§4.3),Não reavaliados; IDs não documentados,TCC1 v2; log,Desvio inventariado; os 5 não são identificáveis
+D7,Passagem 968 → 64,Texto completo de todos os elegíveis,"Seleção intencional de 74 por hierarquia de evidência (tipo inferido de título e resumo), 64 após ajustes; 904 como contextualização",TCC1 v2,A amostra de 64 não representa os 968; generalização limitada
+D8,Composição das 11 retiradas (74 → 64),—,Descrita de modo diferente no .tex v2 e na Auditoria Etapa 1; a soma fecha (74 − 11 + 1 = 64),TCC1 v2; Auditoria Etapa 1,Composição por categoria a confirmar
+D9,Avaliação de qualidade,Todos os incluídos,Seis no TCC1 (âncoras); 53 no TCC2,TCC1 v2; fichas,Notas por item das âncoras indisponíveis; comparação só pelo total
+D10,Concordância (κ),"κ ≥ 0,60","κ = 0,466 (amostra de 10%, intervalo ≥ 7 dias); recalibração não documentada",TCC1 v2,Triagem do TCC1 com concordância moderada
+D11,Revisor independente,"Revisora única (protocolo §8.4), com medidas compensatórias",Sem segundo revisor na triagem nem no texto completo; as medidas compensatórias estão registradas apenas em parte (κ do TCC1),Protocolo §8.4; TCC1 v2,Limitação reconhecida no protocolo; risco de erro de leitura e de pontuação
+D12,Recuperação de textos,Três vias antes de CE5 (§4.4),Tentativas não documentadas para 5 textos,Plano v6; fichas,"Textos tratados como ""não recuperados"", não como CE5"
+D13,Corte temporal,CI1: até 31/03/2026 (nota 1),"Quatro registros com publicação ou aceite posterior ao corte (SCOPUS_130, 277, 476 e 818) estavam no corpus de 968; três estudos de 2026 (SCOPUS_12, 1 e 196) só trazem a data de aceite, até 16/03/2026",PDFs,Excluídos por CI1 pela regra R7 (cenário B os devolve); corte efetivo e data da busca a esclarecer
+D14,Redação de critérios,"Protocolo: CI2, CE1, CE2, CE4, CE5, CE6","TCC1 usa formulações próprias (por exemplo, CE4 como foco principal fora do escopo de IA)",TCC1 v2; protocolo,"Neste trabalho, aplicados literalmente com as regras R1–R7"
+D15,Limiar de nota,"Protocolo §5: inclusão com nota ≥ 3,0; sensibilidade em 2,0; 3,0; 4,0","TCC1 usa o limiar de 3,0; TCC2 aplica e reporta os três cenários",Protocolo §5; TCC1 v2,"Sem efeito: nenhum incluído tem nota bruta < 3,5; os 6 com nota < 3,0 já estavam excluídos por critério"
+D16,Q5 em mapeamento e scoping,Leitura do protocolo por objetivo,Prática do TCC1: N/A só em mapeamento e scoping,Registro de decisões V3,Q5 N/A em 1 estudo dos 34 (SCOPUS_12); alternativa registrada
+D17,Rótulo das questões,RQ1–RQ4 (protocolo),QP1–QP4 no texto do TCC1; RQ1–RQ4 no TCC2,Protocolo §1.3; TCC1 v2,Mesmas quatro questões; unificar rótulo
+D18,IDs trocados,—,"Divergência de IDs em 12, 641, 818 e 852 entre listas",TCC1 v2; fichas,Identidade conferida por título e autores; 12 permanece a confirmar
+D19,Planilha de rastreabilidade,—,RST_Rastreabilidade não reproduz as contagens do TCC1 (estado de triagem diferente),RST_*.xlsx,Não usada para contagens
+D20,Nota † da Tabela 3 do TCC1,—,Não reproduzível nos documentos (V5),Registro V1–V13,Nenhum estudo lido depende dela
+D21,Análises previstas no protocolo e não realizadas,Matriz de sobreposição por amostragem (§7.5); comparação antes/depois de 2022 (§7.3); teoria preliminar (§7.1),"Não realizadas; comparação inviável (um único incluído anterior a 2024, SCOPUS_838)",Protocolo §7; este trabalho,Sobreposição desconhecida; sem comparação temporal
+D22,Redação de CE3 e CE7,CE3 duplicata; CE7 anterior a 2019 ou data não verificável (espelho de CI1),"TCC1 descreve CE7 como ""fora da janela temporal""; aqui os quatro registros posteriores ao corte foram codificados como CI1 não satisfeito",Protocolo §3.2; TCC1 v2,Codificação a confirmar com a orientadora
