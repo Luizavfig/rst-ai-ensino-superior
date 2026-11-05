@@ -362,7 +362,7 @@ Status: PRONTA (texto de 04/11); REVISADA (listas de IDs conferidas contra os 34
 | String e bases x TCC2 | Coerentes com o protocolo (3 bases, 2.489 brutos) |
 | Links do TCC1 para o repositório | O TCC1 cita a URL do repositório e o arquivo `protocolo_atualizado_TCC.pdf`; ambos mantidos |
 | Estudos brasileiros | Nenhum encontrado; ausência não provada (seção 5) |
-| Envio ao GitHub | Registrado na seção 16, após a verificação |
+| Envio ao GitHub | Verificado em clone novo do remoto (seção 16) |
 
 **Divergências investigadas e origem.** Nenhuma divergência numérica entre texto, tabelas e planilha. As divergências de identificação (IDs provisórios da Fase 1, ano de SCOPUS_66, grafia de Samman) têm origem documentada (seção 11). Nada foi alterado para igualar números.
 
@@ -423,4 +423,8 @@ Nenhuma aprovação foi simulada.
 
 ## 16. Verificação do envio ao GitHub
 
-Preenchida após o envio (ver o final deste arquivo).
+Verificado em 05/11/2026 após o envio: o ramo `main` do remoto aponta para o commit `6fe85e4` (`git ls-remote`), e um clone novo do GitHub tem os 19 arquivos abaixo, idênticos aos locais (`diff -rq` sem diferenças).
+
+Arquivos confirmados no remoto: `README.md`; `protocolo_atualizado_TCC.pdf`; `material-suplementar/` (2 arquivos); `02_tcc2/TCC2_Documento_Completo.md`; `03_dados/TCC2_Planilha_Auditoria.xlsx`; `03_dados/csv/` (7 CSVs); `03_dados/tcc1/Artigos_Citados_TCC_Funcao.xlsx`; `04_prisma/` (figura e tabela); `05_framework/Framework_8_dimensoes.md`; `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` (versão enviada no commit `6fe85e4`, sem esta seção preenchida); `07_referencias/Referencias_TCC2.md`.
+
+A inclusão desta seção é um segundo commit, verificado do mesmo modo (ver mensagem final da entrega).
