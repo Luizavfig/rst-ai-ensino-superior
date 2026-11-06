@@ -55,7 +55,7 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 ## Limites conhecidos
 
 - Esta organização não substitui a conferência humana por amostragem das fichas contra os PDFs.
-- As fichas F01 a F30, as versões intermediárias e os registros de decisão ficam no Projeto "TCC" do claude.ai, não neste repositório.
+- As fichas F01 a F30, as versões intermediárias e os registros de decisão ficam na pasta de trabalho da autora (Projeto "TCC"), não neste repositório.
 - Nenhum dos 53 estudos avaliados tem afiliação no Brasil (conferência de 05/11/2026). A literatura brasileira localizada em busca exploratória está em `08_literatura_complementar/` e não integra o corpus.
 - A conferência dos PDFs foi feita por assistente de IA; as fichas ainda precisam de conferência humana por amostragem (L12).
 - Não constam nos documentos: data da busca, número de duplicatas, pré-registro. Estão marcados como pendentes.
