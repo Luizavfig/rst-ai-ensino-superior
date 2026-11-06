@@ -21,15 +21,17 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 |---|---|
 | `protocolo_atualizado_TCC.pdf` | Protocolo da revisão. Fica na raiz porque o TCC1 cita esse arquivo |
 | `material-suplementar/` | Rastreabilidade do corpus do TCC1 (PDF e XLSX). Fica na raiz pelo mesmo motivo |
-| `02_tcc2/TCC2_Documento_Completo.md` | Texto completo do TCC2 (versão de 04/11/2026, revisada em 05/11/2026; Apêndices F e G novos) |
+| `02_tcc2/TCC2_Documento_Completo.md` | Texto completo do TCC2 (versão consolidada de 06/11/2026, com marcas [Pendente O#/L#]; Apêndices F, G e H) |
 | `03_dados/TCC2_Planilha_Auditoria.xlsx` | Planilha com fórmulas: 58 estudos, notas Q1 a Q8, fluxo PRISMA, conferências, desvios, framework, pendências |
-| `03_dados/csv/` | Os mesmos dados em CSV (10 arquivos, numerados de 01 a 10; 08 = conferência dos 53 PDFs, 09 = literatura complementar brasileira, 10 = dimensões × estudos verificados) |
+| `03_dados/csv/` | Os mesmos dados em CSV (12 arquivos, numerados de 01 a 12; 08 = conferência dos 53 PDFs, 09 = literatura complementar brasileira, 10 = dimensões × estudos verificados, 11 = suficiência por dimensão, 12 = literatura brasileira por dimensão) |
 | `03_dados/tcc1/` | Planilha de artigos citados no TCC1 |
 | `04_prisma/` | Figura do fluxo PRISMA (`fig1_fluxo_prisma.png`) e a tabela de contagens |
 | `05_framework/Framework_8_dimensoes.md` | Framework conceitual de 8 dimensões, com evidências por estudo |
-| `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` | Relatório de execução e auditoria (15 tópicos) |
+| `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` | Relatório de execução e auditoria (17 tópicos) |
 | `06_documentacao/RELATORIO_CONFERENCIA_PDFS_E_BUSCA_BRASIL.md` | Conferência dos 53 PDFs, país, objetivo e contribuição, correções e busca brasileira (05/11/2026) |
 | `06_documentacao/DECISOES_PENDENTES_AUTORA_ORIENTADORA.md` | Lista objetiva do que depende da autora e da orientadora |
+| `06_documentacao/DECISOES_ORIENTADORA_O1_O15.md` | Decisões O1 a O15: contexto, justificativa científica, alternativas e trechos afetados |
+| `06_documentacao/PENDENCIAS_AUTORA_L1_L15.md` | Pendências L1 a L15: o que conferir ou fornecer |
 | `08_literatura_complementar/` | Literatura brasileira localizada em busca exploratória. **Fora do corpus de 34 e dos 53** |
 | `07_referencias/Referencias_TCC2.md` | Referências do TCC2 |
 

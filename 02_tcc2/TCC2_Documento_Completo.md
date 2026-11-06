@@ -7,17 +7,17 @@ lang: pt-BR
 
 # Nota de versão (retirar antes do envio final)
 
-Versão consolidada de 04/11/2026; revisada em 05/11/2026 após a conferência dos 53 PDFs com as fichas (Apêndice F) e a busca exploratória de literatura brasileira, mantida fora do corpus (Apêndice G). Todos os números foram recalculados a partir da planilha final (`TCC2_Planilha_Final_Incluidos_Excluidos.xlsx`) e das fichas F01–F30. Onde um dado não existe nos documentos do projeto, o texto traz **[INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]**. Nenhuma decisão aqui substitui a confirmação formal da orientadora; as decisões que dependem dela estão no relatório de pendências. A formatação segue a estrutura do TCC1; o modelo LaTeX da UNIPAMPA (`pampa-template`/`abntex2cite`) não estava disponível no ambiente, de modo que a diagramação final deve ser feita no modelo oficial.
+Versão consolidada de 04/11/2026; revisada em 05/11/2026 após a conferência dos 53 PDFs com as fichas (Apêndice F) e a busca exploratória de literatura brasileira, mantida fora do corpus (Apêndice G); consolidada em 05/11/2026 (segunda revisão) com a revisão final da fundamentação das oito dimensões (Seção 6.9 e Tabela 8) e a correção de tabelas, legendas e referências. Os trechos que dependem de decisão da orientadora ou de dado da autora estão marcados com **[Pendente O#]** ou **[Pendente L#]** e listados no Apêndice H; as marcas e o Apêndice H devem ser retirados depois da resolução. Nenhum trecho marcado foi decidido pela autora ou pelo assistente: o texto aplica a recomendação provisória. Todos os números foram recalculados a partir da planilha final (`TCC2_Planilha_Final_Incluidos_Excluidos.xlsx`) e das fichas F01–F30. Onde um dado não existe nos documentos do projeto, o texto traz **[INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]**. Nenhuma decisão aqui substitui a confirmação formal da orientadora; as decisões que dependem dela estão no relatório de pendências. A formatação segue a estrutura do TCC1; o modelo LaTeX da UNIPAMPA (`pampa-template`/`abntex2cite`) não estava disponível no ambiente, de modo que a diagramação final deve ser feita no modelo oficial.
 
 # Resumo
 
-Este trabalho dá continuidade ao TCC1, que mapeou a literatura secundária sobre inteligência artificial (IA) no ensino superior. Realiza-se aqui uma revisão terciária: a análise em texto completo de 58 relatórios do subconjunto de 64 estudos selecionado no TCC1 (excluídas as seis âncoras já avaliadas), conduzida segundo o protocolo da revisão, o PRISMA 2020 e as diretrizes de Kitchenham e Charters. Cinco textos não foram recuperados. Dos 53 avaliados, 34 atenderam aos critérios (9 sem ressalvas e 25 com ressalvas registradas) e 19 foram excluídos por critério. Trinta e três dos 34 foram publicados entre 2024 e 2026 e um, em 2019. A qualidade metodológica, avaliada por oito critérios (Q1–Q8, escala de 0 a 8), teve média de 5,87; 17 dos 33 estudos com o critério aplicável não avaliaram a qualidade dos estudos primários. A IA generativa e os chatbots predominam entre as aplicações (22 e 13 estudos). Vinte e dois estudos apresentam magnitudes de efeito (valores globais de 0,392 a 1,14 em g, d, SMD e ES, e de 0,127 a 0,407 em correlações); esses valores não são comparáveis entre si, e há heterogeneidade alta, sinais de viés de publicação e ausência de acompanhamento de longo prazo. Privacidade, dependência, carência de letramento e políticas, viés e integridade acadêmica são os riscos mais citados. A partir dos achados, propõe-se um framework conceitual de oito dimensões para governança e uso responsável da IA em instituições de ensino superior. O framework é uma proposta: não foi implementado nem validado, e sua validação depende de trabalho futuro. Os resultados descrevem a literatura secundária disponível e não permitem concluir que a IA melhora a aprendizagem em geral.
+Este trabalho dá continuidade ao TCC1, que mapeou a literatura secundária sobre inteligência artificial (IA) no ensino superior. Realiza-se aqui uma revisão terciária: a análise em texto completo de 58 relatórios do subconjunto de 64 estudos selecionado no TCC1 (excluídas as seis âncoras já avaliadas), conduzida segundo o protocolo da revisão, o PRISMA 2020 e as diretrizes de Kitchenham e Charters. Cinco textos não foram recuperados. Dos 53 avaliados, 34 atenderam aos critérios (9 sem ressalvas e 25 com ressalvas registradas) e 19 foram excluídos por critério. Trinta e três dos 34 foram publicados entre 2024 e 2026 e um, em 2019. A qualidade metodológica, avaliada por oito critérios (Q1–Q8, escala de 0 a 8), teve média de 5,87; 17 dos 33 estudos com o critério aplicável não avaliaram a qualidade dos estudos primários. A IA generativa e os chatbots predominam entre as aplicações (22 e 13 estudos). Vinte e dois estudos apresentam magnitudes de efeito (valores globais de 0,392 a 1,14 em g, d, SMD e ES, e de 0,127 a 0,407 em correlações); esses valores não são comparáveis entre si, e há heterogeneidade alta, sinais de viés de publicação e ausência de acompanhamento de longo prazo. Privacidade, dependência, carência de letramento e políticas, viés e integridade acadêmica são os riscos mais citados. A partir dos achados, propõe-se um framework conceitual de oito dimensões para governança e uso responsável da IA em instituições de ensino superior. O framework é uma proposta: não foi implementado nem validado, e sua validação depende de trabalho futuro. A revisão final da fundamentação classificou a suficiência da evidência como adequada em quatro dimensões (3, 5, 7 e 8) e parcial em quatro (1, 2, 4 e 6), sempre em termos de menção da literatura; nenhuma dimensão tem evidência de eficácia. Nenhum dos 34 estudos tem afiliação no Brasil; uma busca complementar exploratória de literatura brasileira, fora do protocolo, é apresentada à parte (Apêndice G) e não integra a síntese. Os resultados descrevem a literatura secundária disponível e não permitem concluir que a IA melhora a aprendizagem em geral.
 
 **Palavras-chave:** inteligência artificial; ensino superior; revisão terciária; meta-análise; PRISMA 2020; governança.
 
 # Abstract
 
-This work continues TCC1, which mapped the secondary literature on artificial intelligence (AI) in higher education. It reports a tertiary review: full-text analysis of 58 reports from the 64-study subset selected in TCC1 (excluding the six anchor studies already appraised there), conducted under the review protocol, PRISMA 2020 and Kitchenham and Charters. Five full texts could not be retrieved. Of the 53 appraised reports, 34 met the criteria (9 without caveats and 25 with recorded caveats) and 19 were excluded by criterion. Thirty-three of the 34 were published between 2024 and 2026 and one in 2019. Methodological quality (eight criteria, 0–8 scale) averaged 5,87; 17 of the 33 studies for which the criterion applies did not appraise the quality of primary studies. Generative AI and chatbots dominate the applications (22 and 13 studies). Twenty-two studies present effect magnitudes (overall values of 0.392 to 1.14 in g, d, SMD and ES, and 0.127 to 0.407 in correlations); these values cannot be compared, and there is high heterogeneity, signs of publication bias and no long-term follow-up. Privacy, dependence, the lack of literacy and policies, bias and academic integrity are the most cited risks. From these findings, a conceptual framework of eight dimensions for AI governance in higher education institutions is proposed. It is a proposal: it was neither implemented nor validated. The results describe the available secondary literature and do not support the claim that AI improves learning in general.
+This work continues TCC1, which mapped the secondary literature on artificial intelligence (AI) in higher education. It reports a tertiary review: full-text analysis of 58 reports from the 64-study subset selected in TCC1 (excluding the six anchor studies already appraised there), conducted under the review protocol, PRISMA 2020 and Kitchenham and Charters. Five full texts could not be retrieved. Of the 53 appraised reports, 34 met the criteria (9 without caveats and 25 with recorded caveats) and 19 were excluded by criterion. Thirty-three of the 34 were published between 2024 and 2026 and one in 2019. Methodological quality (eight criteria, 0–8 scale) averaged 5,87; 17 of the 33 studies for which the criterion applies did not appraise the quality of primary studies. Generative AI and chatbots dominate the applications (22 and 13 studies). Twenty-two studies present effect magnitudes (overall values of 0.392 to 1.14 in g, d, SMD and ES, and 0.127 to 0.407 in correlations); these values cannot be compared, and there is high heterogeneity, signs of publication bias and no long-term follow-up. Privacy, dependence, the lack of literacy and policies, bias and academic integrity are the most cited risks. From these findings, a conceptual framework of eight dimensions for AI governance in higher education institutions is proposed. It is a proposal: it was neither implemented nor validated. The final review of the evidence base rated its sufficiency as adequate for four dimensions (3, 5, 7 and 8) and partial for four (1, 2, 4 and 6), in terms of mentions in the literature only; no dimension has evidence of effectiveness. None of the 34 studies has a Brazilian affiliation; an exploratory complementary search of Brazilian literature, outside the protocol, is reported separately (Appendix G) and is not part of the synthesis. The results describe the available secondary literature and do not support the claim that AI improves learning in general.
 
 **Keywords:** artificial intelligence; higher education; tertiary review; meta-analysis; PRISMA 2020; governance.
 
@@ -61,13 +61,13 @@ O TCC1 organizou o corpus: partiu de 2.489 registros brutos nas bases do protoco
 
 O estudo é uma revisão terciária, conduzida em duas etapas encadeadas. A **etapa de identificação e triagem** foi realizada no TCC1; a **etapa de elegibilidade, avaliação de qualidade, extração e síntese** é realizada neste trabalho. Para que a continuidade fique verificável, a relação entre os conjuntos de estudos é descrita a seguir e confirmada nos IDs, títulos e autores das fichas, e não pela coincidência de números.
 
-1. **Identificação (TCC1).** O protocolo (disponível em https://github.com/Luizavfig/rst-ai-ensino-superior) registra 2.489 registros brutos (Scopus 936; IEEE Xplore 336; ACM 1.217). A triagem por título e resumo processou 1.306 registros (Scopus 981; IEEE Xplore 325). A ACM não foi incorporada à triagem. O protocolo prevê a remoção de duplicatas pela ferramenta Rayyan e o registro da data de execução em um relatório de execução da busca; esse relatório, o número de duplicatas removidas, a ferramenta efetivamente usada e a data da busca não constam dos documentos: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS].
-2. **Triagem por título e resumo (TCC1).** Dos 1.306, 968 foram aprovados (Scopus 861; IEEE Xplore 107), 333 excluídos (CE4: 172; CE1: 102; CE6: 48; CE7: 11) e 5 ficaram incertos. Pelo protocolo (§4.3), os incertos seriam promovidos ao texto completo; o TCC1 registra que não foram reavaliados, o que é um desvio inventariado (Apêndice D). Os documentos não identificam esses 5 registros pelo ID.
-3. **Seleção para análise aprofundada (TCC1).** Dos 968, o TCC1 selecionou 74 estudos por hierarquia de evidência, com base no tipo de estudo inferido de título e resumo, e chegou a 64 após ajustes (74 − 11 + 1). Os 904 restantes formam o corpus de contextualização, que não foi avaliado individualmente.
-4. **Âncoras (TCC1).** Seis dos 64 foram avaliados por Q1–Q8 no TCC1: SCOPUS_657, 388, 473, 967, 374 e 412 (média 6,75). Elas foram usadas para fundamentar as inferências do TCC1 e não são recolhidas de novo neste trabalho: não há PDF nem ficha F01–F30 delas no TCC2, e as notas por item não estão registradas, de modo que só o total é comparável. O papel das âncoras no TCC2 é, portanto, de contexto e de comparação qualitativa, e não de calibração do instrumento nem de componente da síntese.
+1. **Identificação (TCC1).** O protocolo (disponível em https://github.com/Luizavfig/rst-ai-ensino-superior) registra 2.489 registros brutos (Scopus 936; IEEE Xplore 336; ACM 1.217). A triagem por título e resumo processou 1.306 registros (Scopus 981; IEEE Xplore 325). A ACM não foi incorporada à triagem. O protocolo prevê a remoção de duplicatas pela ferramenta Rayyan e o registro da data de execução em um relatório de execução da busca; esse relatório, o número de duplicatas removidas, a ferramenta efetivamente usada e a data da busca não constam dos documentos: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]. **[Pendente L1, L2, L6]**
+2. **Triagem por título e resumo (TCC1).** Dos 1.306, 968 foram aprovados (Scopus 861; IEEE Xplore 107), 333 excluídos (CE4: 172; CE1: 102; CE6: 48; CE7: 11) e 5 ficaram incertos. Pelo protocolo (§4.3), os incertos seriam promovidos ao texto completo; o TCC1 registra que não foram reavaliados, o que é um desvio inventariado (Apêndice D). Os documentos não identificam esses 5 registros pelo ID. **[Pendente L4, O10]**
+3. **Seleção para análise aprofundada (TCC1).** Dos 968, o TCC1 selecionou 74 estudos por hierarquia de evidência, com base no tipo de estudo inferido de título e resumo, e chegou a 64 após ajustes (74 − 11 + 1). Os 904 restantes formam o corpus de contextualização, que não foi avaliado individualmente. **[Pendente L9, O10]**
+4. **Âncoras (TCC1).** Seis dos 64 foram avaliados por Q1–Q8 no TCC1: SCOPUS_657, 388, 473, 967, 374 e 412 (média 6,75). Elas foram usadas para fundamentar as inferências do TCC1 e não são recolhidas de novo neste trabalho: não há PDF nem ficha F01–F30 delas no TCC2, e as notas por item não estão registradas, de modo que só o total é comparável. O papel das âncoras no TCC2 é, portanto, de contexto e de comparação qualitativa, e não de calibração do instrumento nem de componente da síntese. **[Pendente O2]**
 5. **Corpus deste trabalho.** Os 58 estudos restantes (64 menos as 6 âncoras) foram procurados em texto completo. Cinco textos não foram recuperados (SCOPUS_227, 365, 375, 678 e 970) e 53 foram lidos e avaliados.
 
-Duas coincidências numéricas não indicam identidade de conjuntos. (i) O estrato "Demais" da tabela do corpus do TCC1 tem 58 linhas, mas inclui quatro das âncoras (SCOPUS_412, 473, 374 e 967) e não inclui quatro estudos do estrato "Umbrella" (SCOPUS_12, 15, 289 e 531); os 58 deste trabalho são 64 menos as seis âncoras. (ii) Há dois conjuntos de "cinco": os 5 registros incertos da triagem e os 5 textos não recuperados. Os documentos não permitem afirmar que sejam os mesmos ou diferentes: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]. Neste texto, cada um tem nome próprio.
+Duas coincidências numéricas não indicam identidade de conjuntos. (i) O estrato "Demais" da tabela do corpus do TCC1 tem 58 linhas, mas inclui quatro das âncoras (SCOPUS_412, 473, 374 e 967) e não inclui quatro estudos do estrato "Umbrella" (SCOPUS_12, 15, 289 e 531); os 58 deste trabalho são 64 menos as seis âncoras. (ii) Há dois conjuntos de "cinco": os 5 registros incertos da triagem e os 5 textos não recuperados. Os documentos não permitem afirmar que sejam os mesmos ou diferentes: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]. Neste texto, cada um tem nome próprio. **[Pendente L3, L4]**
 
 ## 3.2 Critérios de elegibilidade
 
@@ -88,15 +88,15 @@ Os critérios são os do protocolo da revisão e foram aplicados sem alteração
 | CE6 | Capítulos de livro, editoriais, cartas, relatórios técnicos, trabalhos de conclusão e preprints sem versão publicada e revisada |
 | CE7 | Publicado antes de 2019 ou data não verificável (espelho de CI1 pelo limite inferior) |
 
-**Regras de aplicação** (decisões metodológicas desta etapa, registradas no Apêndice E e dependentes de confirmação formal da orientadora):
+**Regras de aplicação** (decisões metodológicas desta etapa, registradas no Apêndice E e dependentes de confirmação formal da orientadora **[Pendente O1]**; as marcas por regra estão abaixo):
 
-- **R1 (CI3, IA).** A IA precisa ser objeto do estudo ou uma categoria analisada separadamente, com resultados extraíveis. Pela Tabela 1 do protocolo (PICOC), a intervenção inclui a IA clássica (learning analytics, sistemas tutores inteligentes e aprendizagem adaptativa) e a IA generativa; por isso um estudo cujo objeto central é learning analytics ou aprendizagem adaptativa satisfaz CI3 mesmo que o texto não use o termo "IA", e fica com ressalva. Menção da IA como contexto temporal, palavra-chave, exemplo ou possibilidade futura não basta.
+- **R1 (CI3, IA).** A IA precisa ser objeto do estudo ou uma categoria analisada separadamente, com resultados extraíveis. Pela Tabela 1 do protocolo (PICOC), a intervenção inclui a IA clássica (learning analytics, sistemas tutores inteligentes e aprendizagem adaptativa) e a IA generativa; por isso um estudo cujo objeto central é learning analytics ou aprendizagem adaptativa satisfaz CI3 mesmo que o texto não use o termo "IA", e fica com ressalva. Menção da IA como contexto temporal, palavra-chave, exemplo ou possibilidade futura não basta. **[Pendente O3]**
 - **R2 (CI3, nível).** O ensino superior declarado como foco ou contexto basta. Quando o nível não é separável, o estudo permanece com ressalva registrada em F30.
-- **R3 (CI2 e CE2).** Vale o desenho do documento, não o rótulo. CE2 se aplica quando falta protocolo de busca explícito e reproduzível (bases, estratégia e critérios); relato incompleto de fluxo, número de estudos ou avaliação de qualidade é limitação tratada em Q1–Q8, não motivo de exclusão. Protocolo sem resultados, bibliometria e estudo metodológico que não sintetiza estudos não satisfazem CI2.
-- **R4 (CI4).** A ausência de declaração de revisão formal no PDF não equivale a reprovação; fica como ressalva.
+- **R3 (CI2 e CE2).** Vale o desenho do documento, não o rótulo. CE2 se aplica quando falta protocolo de busca explícito e reproduzível (bases, estratégia e critérios); relato incompleto de fluxo, número de estudos ou avaliação de qualidade é limitação tratada em Q1–Q8, não motivo de exclusão. Protocolo sem resultados, bibliometria e estudo metodológico que não sintetiza estudos não satisfazem CI2. **[Pendente O4]**
+- **R4 (CI4).** A ausência de declaração de revisão formal no PDF não equivale a reprovação; fica como ressalva. **[Pendente O6]**
 - **R5 (CI5).** Aplicado literalmente (inglês ou português).
-- **R6 (CE5).** Só se aplica após as três vias do §4.4; como essas tentativas não estão documentadas, os cinco textos constam como "não recuperados" e não como excluídos por CE5.
-- **R7 (CI1).** O corte de 31/03/2026 (nota 1 do protocolo) é aplicado à data de publicação (online ou, na falta dela, de aceite) de todos os estudos, sem exceção: SCOPUS_130, 277, 476 e 818 têm datas posteriores ao corte e foram excluídos; nos demais estudos de 2026, o PDF traz publicação até 15/03/2026 (SCOPUS_159 e 431) ou só o aceite, até 16/03/2026 (SCOPUS_12, 1 e 196); nestes três, a data de publicação não consta e o estudo foi mantido por não haver evidência de data posterior ao corte.
+- **R6 (CE5).** Só se aplica após as três vias do §4.4; como essas tentativas não estão documentadas, os cinco textos constam como "não recuperados" e não como excluídos por CE5. **[Pendente L3]**
+- **R7 (CI1).** O corte de 31/03/2026 (nota 1 do protocolo) é aplicado à data de publicação (online ou, na falta dela, de aceite) de todos os estudos, sem exceção: SCOPUS_130, 277, 476 e 818 têm datas posteriores ao corte e foram excluídos; nos demais estudos de 2026, o PDF traz publicação até 15/03/2026 (SCOPUS_159 e 431) ou só o aceite, até 16/03/2026 (SCOPUS_12, 1 e 196); nestes três, a data de publicação não consta e o estudo foi mantido por não haver evidência de data posterior ao corte. **[Pendente O5, L1]**
 
 Nenhuma regra foi escolhida para aumentar ou reduzir o número de incluídos: R1 e R3 seguem o texto do protocolo (Tabela 1 e CE2), e R7 aplica a nota 1 a todos os estudos. Dois cenários de sensibilidade (Seção 4.9) mostram o efeito das decisões limítrofes.
 
@@ -106,21 +106,21 @@ Os 58 relatórios foram procurados em texto completo; 53 estão no projeto. Para
 
 ## 3.4 Avaliação de elegibilidade
 
-Cada relatório foi lido em texto completo e classificado em: **incluído sem ressalvas**, **incluído com ressalvas** (CI3 por nível de ensino, CI3 por IA parcial ou por IA clássica sem o termo "IA", CI2 por relato incompleto ou CI4) ou **excluído por critério** (código e justificativa por estudo, com título, autores, ano e DOI conforme o §4.6 do protocolo, Apêndice C). Uma pesquisadora fez a leitura e a classificação; não houve segundo revisor.
+Cada relatório foi lido em texto completo e classificado em: **incluído sem ressalvas**, **incluído com ressalvas** (CI3 por nível de ensino, CI3 por IA parcial ou por IA clássica sem o termo "IA", CI2 por relato incompleto ou CI4) ou **excluído por critério** (código e justificativa por estudo, com título, autores, ano e DOI conforme o §4.6 do protocolo, Apêndice C). Uma pesquisadora fez a leitura e a classificação; não houve segundo revisor. **[Pendente L12]**
 
 ## 3.5 Avaliação da qualidade
 
-Cada estudo foi pontuado em Q1–Q8: Q1 objetivo claro; Q2 busca reproduzível; Q3 critérios de inclusão e exclusão; Q4 seleção descrita; Q5 avaliação da qualidade dos estudos primários; Q6 extração e síntese descritas; Q7 conclusões sustentadas pelos resultados; Q8 limitações discutidas. Sim vale 1,0; Parcial, 0,5; Não, 0. O máximo é 8,0; quando Q5 não se aplica (mapeamentos e scoping reviews) o máximo é 7,0 e a nota é reportada como equivalente em 8 pontos. Cada nota tem evidência textual na ficha. Os itens foram classificados como Inconsistência, Imprecisão ou Não verificável; essa classe fica registrada na ficha sem desconto automático de nota (decisão V12). Convergências entre revisões de "alta qualidade" (6,0 ou mais, protocolo §7.3) são destacadas na discussão. O protocolo fixa o limiar mínimo de inclusão em 3,0 (nota inferior implica exclusão por insuficiência metodológica) e pede análise de sensibilidade nos limiares 2,0, 3,0 e 4,0. Nenhum dos 34 incluídos tem nota bruta abaixo de 3,5. Seis dos 53 avaliados têm nota inferior a 3,0 (SCOPUS_38, 210, 225, 350, 947 e 966); todos já estavam excluídos por critério (CE1, CE2 ou CI5), de modo que **nenhum estudo foi excluído exclusivamente por nota**.
+Cada estudo foi pontuado em Q1–Q8: Q1 objetivo claro; Q2 busca reproduzível; Q3 critérios de inclusão e exclusão; Q4 seleção descrita; Q5 avaliação da qualidade dos estudos primários; Q6 extração e síntese descritas; Q7 conclusões sustentadas pelos resultados; Q8 limitações discutidas. Sim vale 1,0; Parcial, 0,5; Não, 0. O máximo é 8,0; quando Q5 não se aplica (mapeamentos e scoping reviews) o máximo é 7,0 e a nota é reportada como equivalente em 8 pontos. Cada nota tem evidência textual na ficha. Os itens foram classificados como Inconsistência, Imprecisão ou Não verificável; essa classe fica registrada na ficha sem desconto automático de nota (decisão V12). Convergências entre revisões de "alta qualidade" (6,0 ou mais, protocolo §7.3) são destacadas na discussão. O protocolo fixa o limiar mínimo de inclusão em 3,0 (nota inferior implica exclusão por insuficiência metodológica) e pede análise de sensibilidade nos limiares 2,0, 3,0 e 4,0. Nenhum dos 34 incluídos tem nota bruta abaixo de 3,5. Seis dos 53 avaliados têm nota inferior a 3,0 (SCOPUS_38, 210, 225, 350, 947 e 966); todos já estavam excluídos por critério (CE1, CE2 ou CI5), de modo que **nenhum estudo foi excluído exclusivamente por nota**. **[Pendente O7]**
 
 ## 3.6 Extração de dados
 
 A extração usou uma ficha de 30 campos (F01–F30): identificação, tipo de revisão, bases, período, número de estudos, métodos de síntese, avaliação de qualidade, tecnologias de IA, aplicações, benefícios, desafios, ética, lacunas, tendências, nível de evidência e limitações. Os dados foram extraídos dos PDFs; apêndices e materiais suplementares fora do PDF não foram consultados.
 
-**Uso de assistente de IA.** Como declarado no TCC1, o modelo Claude (Anthropic) foi usado como ferramenta auxiliar. Nesta etapa, apoiou a leitura e a organização das fichas F01–F30, a pontuação preliminar de Q1–Q8, a verificação de consistência entre registros e protocolo e a redação. As decisões metodológicas, as interpretações e as conclusões são de responsabilidade da autora, a quem cabe a conferência dos dados contra os PDFs [a versão do modelo usada nesta etapa e a forma de declaração exigida pela universidade devem ser confirmadas pela autora e pela orientadora].
+**Uso de assistente de IA.** Como declarado no TCC1, o modelo Claude (Anthropic) foi usado como ferramenta auxiliar. Nesta etapa, apoiou a leitura e a organização das fichas F01–F30, a pontuação preliminar de Q1–Q8, a verificação de consistência entre registros e protocolo e a redação. As decisões metodológicas, as interpretações e as conclusões são de responsabilidade da autora, a quem cabe a conferência dos dados contra os PDFs **[Pendente O11, L11: a versão do modelo usada nesta etapa e a forma de declaração exigida pela universidade devem ser confirmadas pela autora e pela orientadora]**.
 
 ## 3.7 Síntese
 
-A síntese é narrativa e quantitativa descritiva. Os temas foram contados por número de estudos que os mencionam, o que mede atenção da literatura e não frequência, gravidade ou força de evidência. Os efeitos são os relatados pelos autores e apresentados estudo a estudo (Tabela Z); **não foi calculada nenhuma medida combinada nova** e métricas distintas (g, d, SMD, ES, r) não foram unificadas. O nível de evidência (F21) é uma classificação da autora sobre o grau de sustentação dos achados de cada revisão. A sobreposição de estudos primários entre revisões não foi medida.
+A síntese é narrativa e quantitativa descritiva. Os temas foram contados por número de estudos que os mencionam, o que mede atenção da literatura e não frequência, gravidade ou força de evidência. Alguns vínculos de menção são breves ou secundários; a Seção 6.9 os classifica, e a regra de contagem aguarda a orientadora. **[Pendente O14]** Os efeitos são os relatados pelos autores e apresentados estudo a estudo (Tabela 5); **não foi calculada nenhuma medida combinada nova** e métricas distintas (g, d, SMD, ES, r) não foram unificadas. O nível de evidência (F21) é uma classificação da autora sobre o grau de sustentação dos achados de cada revisão. **[Pendente O9]** A sobreposição de estudos primários entre revisões não foi medida.
 
 ## 3.8 Limitações do método
 
@@ -173,13 +173,13 @@ Os 34 estudos foram publicados em 2019 (1), 2024 (9), 2025 (18) e 2026 (6). SCOP
 
 | ID | Estudo | Tipo de revisão (F08) | Base (F09) | Q1–Q8 | Nível (F21) | Ressalva |
 |---|---|---|---|---|---|---|
-| 838 | Robertshaw e Asher (2019) | Revisão e meta-análise de efeitos aleatórios de… | 44 estudos identificados | 6,0/8 | Moderado | IA clássica (PICOC) |
+| 838 | Robertshaw e Asher (2019) | Revisão e meta-análise de efeitos aleatórios de estudos de learning analytics em bibliotecas acadêmicas | 44 estudos identificados | 6,0/8 | Moderado | IA clássica (PICOC) |
 | 594 | Al-Shabandar et al. (2024) | Revisão sistemática | 35 artigos | 4,0/8 | Fraco | — |
 | 906 | Hooshyar et al. (2024) | Meta-análise | 47 estudos | 7,5/8 | Forte | IA clássica (PICOC) |
 | 968 | Kozhanov et al. (2024) | Revisão da literatura com PRISMA adaptado | 19 artigos | 4,0/8 | Fraco | CI4, Nível |
-| 852 | Ncube e Ngulube (2024) | Revisão sistemática com PRISMA 2020, PICO e avaliação… | 14 estudos | 6,0/8 | Moderado | IA clássica (PICOC) |
+| 852 | Ncube e Ngulube (2024) | Revisão sistemática com PRISMA 2020, PICO e avaliação de qualidade CASP | 14 estudos | 6,0/8 | Moderado | IA clássica (PICOC) |
 | 840 | Parambil et al. (2024) | Revisão sistemática da literatura | 92 estudos incluídos | 5,5/8 | Moderado | IA parcial |
-| 596 | Al Samman (2024) | Meta-análise autodeclarada de estudos quantitativos,… | Número de estudos incluídos:… | 4,0/8 | Fraco | CI4, CI2 |
+| 596 | Al Samman (2024) | Meta-análise autodeclarada de estudos quantitativos, qualitativos e mistos, com métodos descritos de forma condicional ("quando aplicável") | [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS] | 4,0/8 | Fraco | CI4, CI2 |
 | 639 | Sembey et al. (2024) | Revisão sistemática da literatura | 38 estudos | 7,0/8 | Moderado | IA parcial |
 | 588 | Wu (2024) | Meta-análise | 49 estudos | 7,5/8 | Forte | Nível |
 | 593 | Wu e Yu (2024) | Meta-análise | 24 estudos | 7,0/8 | Moderado | Nível |
@@ -252,7 +252,7 @@ A desagregação para o ensino superior é limitada em SCOPUS_289, 129 e 9 (e no
 
 Vinte e dois estudos constam da Tabela 5. Entre os que usam g, d, SMD ou ES, os valores globais vão de 0,392 (Zhu et al. (2025), ensaios controlados com IA generativa) a g = 1,14 (Mo et al. (2026), ChatGPT na graduação); os dois que usam correlação (r) relatam 0,127 a 0,229 (Robertshaw e Asher (2019), learning analytics em bibliotecas) e 0,407 (Cui et al. (2025)). A métrica é g, d, SMD, ES ou r conforme o estudo, e nas fichas de Qu et al. (2025) (0,94) e Wang e Guo (2025) (0,645) ela não está especificada. Os instrumentos, os desfechos e as populações diferem; **os valores não são comparáveis nem agregáveis entre si**. SCOPUS_9 reporta g = 0,63 para vários níveis e g = 0,75 para o ensino superior apenas no Resumo, e os dados de ensino superior não são extraíveis do PDF. SCOPUS_391 não tem efeito global único: reporta um efeito por nível de Bloom. SCOPUS_447 compara estratégias de personalização entre si e não relata efeito global contra um controle sem adaptação.
 
-**Tabela 5 – Magnitudes de efeito relatadas (Tabela Z)**
+**Tabela 5 – Magnitudes de efeito relatadas**
 
 | ID | Estudo | Foco | Efeito relatado (como no estudo) | Nível (F21) |
 |---|---|---|---|---|
@@ -287,7 +287,9 @@ Estudos sem magnitude de efeito relatam benefícios descritivos: eficiência e a
 
 ## 4.7 RQ3 – Desafios, limitações metodológicas e preocupações éticas
 
-**Riscos e preocupações éticas relatadas** (estudos que mencionam; contagem de menção, não de gravidade):
+**Riscos e preocupações éticas relatadas** (estudos que mencionam; contagem de menção, não de gravidade).
+
+**Tabela 6 – Preocupações éticas e riscos relatados (contagem de menção)**
 
 | Tema | Estudos (de 34) | IDs |
 |---|---|---|
@@ -299,7 +301,7 @@ Estudos sem magnitude de efeito relatam benefícios descritivos: eficiência e a
 | Transparência e explicabilidade | 6 | 12, 159, 264, 639, 840, 852 |
 | Exatidão e confiabilidade das respostas | 4 | 196, IEEE_101, 456, 26 |
 
-*Tabela 6 – Preocupações éticas e riscos relatados.*
+Nota: parte dos vínculos da Tabela 6 é breve ou secundária. SCOPUS_26 (dependência e exatidão) e SCOPUS_117 (integridade) aparecem pela revisão de literatura do próprio estudo, citando terceiros, ou por frase de implicações; SCOPUS_639 (privacidade) tem duas ocorrências; SCOPUS_456 (integridade), SCOPUS_196 (exatidão) e SCOPUS_15 (viés) são menções breves. Foram mantidos na contagem pela regra de menção (Seção 3.7) e classificados na Seção 6.9. **[Pendente O14]**
 
 **Limitações metodológicas dos próprios estudos secundários.**
 
@@ -315,7 +317,7 @@ Estudos sem magnitude de efeito relatam benefícios descritivos: eficiência e a
 
 A sobreposição de estudos primários entre as meta-análises de IA generativa **não foi medida**: as listas de estudos primários estão ausentes ou fora dos PDFs em vários casos. O par com sobreposição documentada nas fichas (SCOPUS_818, que usa SCOPUS_593 como fonte) deixou de existir no conjunto, porque SCOPUS_818 foi excluído por CI1; ainda assim, a sobreposição entre os 34 permanece desconhecida e pode fazer um mesmo ensaio contar mais de uma vez no conjunto de achados.
 
-Para verificar o quanto as decisões limítrofes alteram os achados, compararam-se três conjuntos: o principal (34 estudos); a leitura A, em que CI3 exige que o texto nomeie IA, sem os quatro estudos de IA clássica pela Tabela 1 do protocolo (SCOPUS_838, 906, 447 e 852; 30 estudos); e a leitura B, em que o corte temporal é a data efetiva da busca, o que devolve SCOPUS_130, 277, 476 e 818 (38 estudos). A nota média (equivalente em 8) é 5,87 no principal, 5,81 em A e 5,93 em B; o mínimo (3,5) e o máximo (8,0) não mudam. IA generativa e chatbots seguem como as aplicações mais citadas nos três conjuntos (22 e 13 no principal e em A; 24 e 16 em B). Entre os riscos, privacidade (12) e dependência (11) lideram no principal; em A, a dependência (11) passa à frente da privacidade (10); em B, as duas empatam (13). Tutoria e aprendizagem adaptativa tem 9 estudos no principal, 7 em A e 11 em B, e learning analytics, 5, 3 e 5. A Tabela 5 teria 22 estudos no principal, 19 em A e 24 em B, e os estudos de alta qualidade (6,0 ou mais), 19, 15 e 22. As conclusões gerais (predomínio de IA generativa e de chatbots, efeitos positivos e heterogêneos nos estudos de efeito, dependência e privacidade entre os riscos mais citados, lacuna de longo prazo) valem nos três conjuntos; a ordem entre privacidade e dependência e as contagens de tutoria adaptativa e de learning analytics dependem das decisões sobre CI3 (R1) e CI1 (R7), que aguardam a orientadora. Um segundo recorte, só com os 9 estudos sem ressalvas, tem 6 estudos com magnitude de efeito (SCOPUS_1, 196, 380, 117, 391 e 456), todos com efeito global ou por nível positivo, e os mesmos temas de risco (dependência e integridade em quatro estudos cada).
+Para verificar o quanto as decisões limítrofes alteram os achados, compararam-se três conjuntos: o principal (34 estudos); a leitura A, em que CI3 exige que o texto nomeie IA, sem os quatro estudos de IA clássica pela Tabela 1 do protocolo (SCOPUS_838, 906, 447 e 852; 30 estudos); e a leitura B, em que o corte temporal é a data efetiva da busca, o que devolve SCOPUS_130, 277, 476 e 818 (38 estudos). A nota média (equivalente em 8) é 5,87 no principal, 5,81 em A e 5,93 em B; o mínimo (3,5) e o máximo (8,0) não mudam. IA generativa e chatbots seguem como as aplicações mais citadas nos três conjuntos (22 e 13 no principal e em A; 24 e 16 em B). Entre os riscos, privacidade (12) e dependência (11) lideram no principal; em A, a dependência (11) passa à frente da privacidade (10); em B, as duas empatam (13). Tutoria e aprendizagem adaptativa tem 9 estudos no principal, 7 em A e 11 em B, e learning analytics, 5, 3 e 5. A Tabela 5 teria 22 estudos no principal, 19 em A e 24 em B, e os estudos de alta qualidade (6,0 ou mais), 19, 15 e 22. As conclusões gerais (predomínio de IA generativa e de chatbots, efeitos positivos e heterogêneos nos estudos de efeito, dependência e privacidade entre os riscos mais citados, lacuna de longo prazo) valem nos três conjuntos; a ordem entre privacidade e dependência e as contagens de tutoria adaptativa e de learning analytics dependem das decisões sobre CI3 (R1) e CI1 (R7), que aguardam a orientadora. **[Pendente O1, O3, O5]** Um segundo recorte, só com os 9 estudos sem ressalvas, tem 6 estudos com magnitude de efeito (SCOPUS_1, 196, 380, 117, 391 e 456), todos com efeito global ou por nível positivo, e os mesmos temas de risco (dependência e integridade em quatro estudos cada).
 
 
 # 5 Discussão
@@ -359,7 +361,7 @@ Quanto à qualidade, a nota média dos 34 (5,87) é menor que a das seis âncora
 
 ## 5.7 Implicações para as instituições de ensino superior
 
-As implicações abaixo são condicionais e derivam dos limites da evidência, não de efeitos demonstrados. (i) Decisões institucionais sobre adoção de IA generativa não devem se apoiar em um valor médio de efeito, porque a heterogeneidade é alta e a qualidade dos primários nem sempre foi avaliada. (ii) Se a IA for adotada, os dados disponíveis indicam que orientação docente, desenho da tarefa e duração são condições a planejar e a acompanhar. (iii) Riscos de privacidade, viés, integridade e dependência são recorrentes na literatura e justificam política explícita, mas a literatura incluída não mostra quais políticas funcionam. (iv) Faltam estudos longitudinais e avaliações de políticas institucionais.
+As implicações abaixo são condicionais e derivam dos limites da evidência, não de efeitos demonstrados. (i) Decisões institucionais sobre adoção de IA generativa não devem se apoiar em um valor médio de efeito, porque a heterogeneidade é alta e a qualidade dos primários nem sempre foi avaliada. (ii) Se a IA for adotada, os dados disponíveis são heterogêneos: dois estudos relatam efeito maior com orientação de uso (SCOPUS_380 e 234), dois relatam efeito numericamente maior com intervenção docente sem diferença significativa ou só em um desfecho (IEEE_81 e SCOPUS_439), e a duração tem resultados contraditórios; orientação, desenho da tarefa e duração são condições a registrar e a acompanhar, sem prova de que causem o efeito. (iii) Riscos de privacidade, viés, integridade e dependência são recorrentes na literatura e justificam política explícita, mas a literatura incluída não mostra quais políticas funcionam. (iv) Faltam estudos longitudinais e avaliações de políticas institucionais.
 
 # 6 Proposta conceitual de framework
 
@@ -367,28 +369,30 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Objetivo.** Organizar, em oito dimensões de governança e uso responsável de IA no ensino superior, os riscos, as lacunas e as condições de uso que as revisões incluídas apontam, indicando para cada dimensão a evidência que falta.
 
-**Critério de construção.** A dimensão 1 parte de um sinal de benefício associado a uma condição de uso. As dimensões 2 a 7 decorrem de riscos, lacunas e recomendações nomeados pelas revisões. A dimensão 8 decorre das limitações metodológicas do próprio conjunto de estudos. A lista de estudos de cada dimensão vem das contagens de menção das Seções 4.5 a 4.8.
+**Critério de construção.** A dimensão 1 parte de um sinal de benefício associado a uma condição de uso. As dimensões 2 a 7 decorrem de riscos, lacunas e recomendações nomeados pelas revisões. A dimensão 8 decorre das limitações metodológicas do próprio conjunto de estudos. A lista de estudos de cada dimensão vem das contagens de menção das Seções 4.5 a 4.8; a Seção 6.9 classifica cada vínculo (direto, qualificado, menção breve ou sem valor de evidência) e avalia a suficiência da evidência por dimensão. **[Pendente O8]**
 
 **Tabela 7 – Visão geral do framework**
 
 | Dimensão | Base nos achados (menções, não eficácia) | Evidência que falta |
 |---|---|---|
-| 1. Uso pedagógico orientado | Efeitos maiores com orientação (SCOPUS_380, 234, IEEE_81, SCOPUS_439) | Teste controlado do moderador "orientação" |
-| 2. Integridade e avaliação | Integridade citada em 6 estudos | Medidas de ocorrência e de efeito de políticas |
-| 3. Privacidade e dados | Citada em 12 estudos | Efetividade de práticas em IES |
-| 4. Equidade e viés | Citados em 8 estudos | Auditorias de viés em ferramentas educacionais |
+| 1. Uso pedagógico orientado | Efeito maior com orientação em SCOPUS_380 e 234; numericamente maior, sem diferença significativa ou só em um desfecho, em IEEE_81 e SCOPUS_439; SCOPUS_639 cita dois primários (vínculo direto em 3 estudos) | Teste controlado do moderador "orientação" |
+| 2. Integridade e avaliação | Integridade citada em 6 estudos (vínculo direto em 4; exatidão com vínculo direto em 2) | Medidas de ocorrência e de efeito de políticas |
+| 3. Privacidade e dados | Citada em 12 estudos (vínculo direto em 11) | Efetividade de práticas em IES |
+| 4. Equidade e viés | Citados em 8 estudos (vínculo direto em 7) | Auditorias de viés em ferramentas educacionais |
 | 5. Transparência e explicabilidade | Citadas em 6 estudos | Relação com confiança calibrada e aprendizagem |
-| 6. Letramento e formação | Citados em 9 estudos (inclui políticas) | Efeito de programas de formação |
-| 7. Políticas e governança | Tendência em 9 estudos | Avaliação de políticas já adotadas |
+| 6. Letramento e formação | Citados em 9 estudos em categoria combinada com políticas; tendência separável em 4 (IEEE_132, SCOPUS_9, 431 e 596) | Efeito de programas de formação |
+| 7. Políticas e governança | Tendência em 9 estudos (vínculo direto); a lista de orientação institucional insuficiente é a da dimensão 6 e não conta | Avaliação de políticas já adotadas |
 | 8. Monitoramento e qualidade da evidência | 17 de 33 sem avaliação de qualidade dos primários; I² alto em 9 | Estudos longitudinais; medida de sobreposição |
 
-## 6.1. Uso pedagógico orientado, com docente no circuito
+## 6.1 Uso pedagógico orientado, com docente no circuito
 
 **Definição.** Conjunto de condições de desenho pedagógico em que o uso de IA é planejado e acompanhado: orientação de uso, papel do docente na verificação e no feedback, tipo de tarefa e duração da intervenção.
 
 **Justificativa.** Os efeitos relatados variam com a condição de uso. Essa dimensão organiza o que as revisões relatam como moderador do resultado, sem afirmar que a orientação cause o efeito.
 
-**Evidências nos estudos incluídos.** SCOPUS_380 relata g = 1,20 com orientação de uso contra g = 1,14 no efeito global; SCOPUS_234, ganhos maiores com uso orientado e em habilidades de ordem inferior; IEEE_81, intervenção docente com efeito numericamente maior (0,517 contra 0,477), sem diferença estatisticamente significativa; SCOPUS_439, intervenção docente amplifica significativamente apenas o engajamento cognitivo; SCOPUS_639, avaliação por IA com melhor eficácia com humano no circuito; SCOPUS_391, disciplina modera os efeitos de ordem superior e pequenos grupos em STEM aparecem como promissores (mineração de regras, exploratória); SCOPUS_26, apenas como menção na revisão de literatura do próprio estudo, que cita terceiros sobre envolvimento docente na verificação das respostas (não é achado da síntese). Sobre a duração, SCOPUS_439 relata ganho maior em duração média e IEEE_81, efeito menor em durações mais longas: o dado é contraditório.
+**Evidências nos estudos incluídos.** *Orientação ou intervenção docente, vínculo direto:* SCOPUS_380 relata g = 1,20 com orientação de uso contra g = 1,14 no efeito global; SCOPUS_234, ganhos maiores com uso orientado e em habilidades de ordem inferior (nota de leitura do PDF); SCOPUS_639, avaliação por IA com melhor eficácia com humano no circuito, a partir de dois estudos primários citados. *Vínculo qualificado:* IEEE_81, intervenção docente com efeito numericamente maior (0,517 contra 0,477), sem diferença estatisticamente significativa; SCOPUS_439, intervenção docente amplifica significativamente apenas o engajamento cognitivo. *Condições de desenho, não orientação:* SCOPUS_391 relata que a disciplina modera os efeitos de ordem superior e, em regras de mineração exploratórias, intervenções em sala e de até uma semana (habilidades de ordem inferior) e pequenos grupos em STEM (ordem superior e não cognitivas) aparecem como promissores; o PDF não traz moderador de orientação docente. *Duração:* SCOPUS_439 relata ganho maior em duração média e IEEE_81, efeito menor em durações mais longas: o dado é contraditório. *Sem valor de evidência:* SCOPUS_26 traz a menção apenas na revisão de literatura do próprio estudo, que cita terceiros sobre envolvimento docente na verificação das respostas (não é achado da síntese).
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** B2 e B3 (análises documentais) e G4 (reportagem com entrevistados) descrevem a supervisão humana e o diálogo entre docentes e estudantes sobre as ferramentas permitidas; B3 trata de pesquisa acadêmica, e G4 reúne opiniões. Nenhum mede efeito de orientação docente, por isso a evidência que falta continua a mesma.
 
 **Relação com as demais dimensões.** Depende de 6 (o docente precisa de letramento) e de 7 (políticas definem o que é uso permitido). Interage com 2 (formato da avaliação) e com 8 (efeitos de longo prazo e moderadores ainda não testados).
 
@@ -396,13 +400,15 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** O moderador "orientação" foi relatado por estudos de métodos e desfechos diferentes e nunca testado de forma controlada: que tipo de orientação, em que tarefa, por quanto tempo e com qual desfecho?
 
-## 6.2. Integridade acadêmica e desenho da avaliação
+## 6.2 Integridade acadêmica e desenho da avaliação
 
 **Definição.** Práticas e regras que protegem a autoria e a validade da avaliação quando estudantes e docentes usam IA.
 
-**Justificativa.** Integridade acadêmica e plágio são citados como risco em seis estudos; exatidão das respostas, em quatro. A avaliação é onde a IA e a regra institucional mais se tocam.
+**Justificativa.** Integridade acadêmica e plágio são citados como risco em seis estudos (quatro com vínculo direto; SCOPUS_456 por menção breve e SCOPUS_117 por menção secundária); exatidão das respostas, em quatro (IEEE_101 e 456 com vínculo direto; SCOPUS_196 por menção breve e SCOPUS_26 citando terceiros). A avaliação é onde a IA e a regra institucional mais se tocam.
 
-**Evidências nos estudos incluídos.** Integridade e plágio: 15, 12, IEEE_101, 117, 456, 594. Exatidão e confiabilidade das respostas: 196, IEEE_101, 456, 26. Avaliação e feedback automatizados como aplicação: 15, 159, 431, 639.
+**Evidências nos estudos incluídos.** Integridade e plágio, vínculo direto: 15, 12, IEEE_101 e 594; SCOPUS_456 (menção breve, na introdução e nas recomendações, citando terceiros) e SCOPUS_117 (uma ocorrência, em frase de implicações; sem valor de evidência). Exatidão e confiabilidade das respostas, vínculo direto: IEEE_101 e 456; SCOPUS_196 (menção breve, citando terceiros) e SCOPUS_26 (revisão de literatura do próprio estudo, citando terceiros; sem valor de evidência). Avaliação e feedback automatizados (15, 159, 431 e 639) são aplicação e contexto, não evidência de integridade.
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** B2, B3, G3 (descrito só por fontes secundárias) e G4 descrevem exigências de autoria, declaração de uso e integridade nos documentos analisados; B1 e B4 analisam o grau de formalização das regras. Nenhum mede a ocorrência de violações nem o efeito das regras.
 
 **Relação com as demais dimensões.** Liga-se a 7 (política de uso aceitável), a 1 (o desenho da tarefa reduz ou aumenta o incentivo ao uso indevido) e a 6 (formação para citar e verificar).
 
@@ -410,13 +416,15 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** Nenhum estudo incluído mediu a ocorrência de violações nem testou políticas de avaliação; os estudos relatam a preocupação. Quais desenhos de avaliação são mais robustos ao uso de IA, e com que custo?
 
-## 6.3. Privacidade e proteção de dados
+## 6.3 Privacidade e proteção de dados
 
 **Definição.** Tratamento de dados pessoais e acadêmicos por sistemas de IA: coleta, consentimento, minimização, retenção, segurança e responsabilidade do fornecedor.
 
 **Justificativa.** Privacidade e segurança de dados são o risco mais citado (12 estudos). Por ser transversal ao uso de qualquer ferramenta, merece dimensão própria.
 
-**Evidências nos estudos incluídos.** Citam privacidade ou segurança de dados: IEEE_132, 15, 129, 9, 12, 117, 594, 639, 840, 968, 852, 838. SCOPUS_840 trata de medidas de cibersegurança baseadas em IA e convencionais em ensino superior online. SCOPUS_852 revisa programas de pós-graduação e descreve tipos de dados, riscos e práticas e marcos de privacidade em análise de dados educacionais (incluído com ressalva de IA clássica, R1). **Lacuna:** nenhum dos 34 estudos incluídos avaliou a efetividade de práticas de privacidade em IES. Esta dimensão, portanto, se apoia em menções de risco e em descrições de práticas, não em evidência de efeito.
+**Evidências nos estudos incluídos.** Citam privacidade ou segurança de dados com vínculo direto: IEEE_132, 15, 129, 9, 12, 117, 594, 840, 968, 852 e 838. SCOPUS_639 aparece na contagem de menção (12 estudos), mas tem duas ocorrências do tema e não conta como evidência da dimensão. SCOPUS_840 trata de medidas de cibersegurança baseadas em IA e convencionais em ensino superior online. SCOPUS_852 revisa programas de pós-graduação e descreve tipos de dados, riscos e práticas e marcos de privacidade em análise de dados educacionais (incluído com ressalva de IA clássica, R1). **Lacuna:** nenhum dos 34 estudos incluídos avaliou a efetividade de práticas de privacidade em IES. Esta dimensão, portanto, se apoia em menções de risco e em descrições de práticas, não em evidência de efeito.
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** B6 (resumo de evento) e G1 (reportagem) citam a proteção de dados entre os princípios dos documentos; G2 e G3 descrevem, por fontes secundárias, a classificação de risco do parecer CNE/CP 15/26. B1 foi mapeado nesta dimensão no Apêndice G. Nenhum avalia a efetividade de práticas de privacidade.
 
 **Relação com as demais dimensões.** Condiciona 7 (política institucional) e 5 (transparência sobre quais dados o sistema usa). Afeta 4 (dados enviesados) e 1 (que dados o docente pode inserir).
 
@@ -424,13 +432,15 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** Que práticas de privacidade IES adotam, e com que efeito sobre exposição de dados? Há diferença entre ferramentas institucionais e ferramentas de consumo?
 
-## 6.4. Equidade e viés algorítmico
+## 6.4 Equidade e viés algorítmico
 
 **Definição.** Atenção a diferenças de acesso, de desempenho e de tratamento entre grupos de estudantes associadas ao uso de IA ou a viés em seus dados e modelos.
 
 **Justificativa.** Viés e equidade aparecem em 8 estudos; acessibilidade e inclusão aparecem como benefício em SCOPUS_129. Viés regional e cultural da própria literatura é lacuna apontada por seis estudos.
 
-**Evidências nos estudos incluídos.** Citam viés ou equidade: IEEE_132, 15, 12, 129, 594, 596, 968, 852. Viés regional e cultural da literatura: SCOPUS_12, 1, IEEE_101, SCOPUS_129, 26 e 593.
+**Evidências nos estudos incluídos.** Citam viés ou equidade com vínculo direto: IEEE_132, 12, 129, 594, 596, 968 e 852; SCOPUS_15 é menção breve (uma frase de recomendação; dois dos três usos de "bias" não se referem a viés algorítmico). Lacuna contextual da literatura (construto distinto do viés algorítmico): SCOPUS_12, 1, IEEE_101, 129 e 26 apontam a representatividade regional e cultural; SCOPUS_593 sugere investigar diferenças de gênero e culturais como moderadores.
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** Só B6 (resumo de evento) e G1 (reportagem) citam equidade e combate a vieses, como princípios; não há análise empírica de viés em ferramentas.
 
 **Relação com as demais dimensões.** Relaciona-se com 5 (explicabilidade permite examinar o viés), 3 (dados) e 8 (monitorar efeitos por grupo).
 
@@ -438,7 +448,7 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** Nenhum estudo incluído audita viés em ferramentas educacionais com dados próprios. Que auditorias são viáveis para uma IES?
 
-## 6.5. Transparência e explicabilidade
+## 6.5 Transparência e explicabilidade
 
 **Definição.** Informação sobre o que a ferramenta faz, com que dados e com que limites, e grau em que suas decisões ou saídas podem ser explicadas a estudantes e docentes.
 
@@ -446,19 +456,23 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Evidências nos estudos incluídos.** Citam transparência ou explicabilidade: 12, 159, 264, 639, 840, 852. SCOPUS_264 relata r = 0,407 entre desempenho tecnológico e confiança do aprendiz; SCOPUS_838 relata, em outra métrica, r de 0,127 a 0,229 entre learning analytics em bibliotecas e desempenho (sem relação com explicabilidade). A métrica e o desfecho de SCOPUS_264 não são comparáveis aos de outros estudos.
 
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** B2, B3, B6, G1 e G3 (este, por fontes secundárias) citam transparência e declaração de uso de IA como princípio ou exigência; não medem confiança nem aprendizagem.
+
 **Relação com as demais dimensões.** Sustenta 4 (examinar viés), 3 (saber que dados são usados) e 1 (docente avalia a saída).
 
 **Implicações para IES.** Exigir do fornecedor informação mínima sobre funcionamento, dados e limites, e informar a comunidade acadêmica.
 
 **Questões para investigação futura.** A explicabilidade melhora a confiança calibrada ou apenas a confiança? Qual o efeito sobre a aprendizagem?
 
-## 6.6. Letramento em IA e formação docente
+## 6.6 Letramento em IA e formação docente
 
 **Definição.** Competências de estudantes, docentes e gestores para entender, usar, verificar e questionar sistemas de IA, e programas institucionais que as desenvolvem.
 
 **Justificativa.** Falta de letramento, de formação docente e de políticas é o terceiro tema mais citado (9 estudos, em categoria que reúne formação e políticas) e é tendência futura apontada por quatro.
 
-**Evidências nos estudos incluídos.** Tema (letramento, formação e políticas): 289, 129, 9, 12, 196, 431, IEEE_101, 234, 456. Tendência de letramento e formação docente: IEEE_132, SCOPUS_9, 431 e 596. A extração não separou, por estudo, o que se refere à formação e o que se refere a políticas; por isso a Dimensão 7 usa a lista de regulação e governança (RQ4).
+**Evidências nos estudos incluídos.** Tendência separável de letramento e formação docente, vínculo direto: IEEE_132, SCOPUS_9, 431 e 596. Tema combinado de letramento, formação e políticas (categoria única da Tabela 6): 289, 129, 9, 12, 196, 431, IEEE_101, 234, 456. A extração não separou, por estudo, o que se refere à formação e o que se refere a políticas; por isso a Dimensão 7 usa a lista de regulação e governança (RQ4) e não conta a segunda lista como evidência própria.
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** B1 e B1a recomendam formação continuada; B2, B4, B6, G1 e G4 citam formação docente, capacitação, orientação formativa ou letramento em IA. São descrições e recomendações, sem medida do efeito de programas.
 
 **Relação com as demais dimensões.** Pré-condição de 1 e 2; apoia 3 a 5, pois a verificação depende do conhecimento de quem usa.
 
@@ -466,15 +480,15 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** Que conteúdos e formatos de formação alteram o comportamento e os resultados? Nenhum estudo incluído mede o efeito de programas de formação.
 
-## 6.7. Políticas e governança institucional
+## 6.7 Políticas e governança institucional
 
 **Definição.** Regras, responsabilidades e instâncias que definem o uso aceitável de IA, a escolha de ferramentas, a prestação de contas e a revisão periódica.
 
 **Justificativa.** Regulação, governança e marcos éticos são a tendência apontada por mais estudos (nove) e a ausência de políticas aparece como risco.
 
-**Evidências nos estudos incluídos.** Apontam regulação e governança como tendência: SCOPUS_15, 129, 9, 12, 594, 596, 639, IEEE_101 e IEEE_132. Orientação institucional insuficiente aparece no tema de letramento e políticas: 289, 129, 9, 12, 196, 431, IEEE_101, 234, 456. SCOPUS_639 aponta falta de frameworks de desenho, avaliação e uso.
+**Evidências nos estudos incluídos.** Apontam regulação e governança como tendência, vínculo direto: SCOPUS_15, 129, 9, 12, 594, 596, 639, IEEE_101 e IEEE_132. A orientação institucional insuficiente aparece no tema combinado de letramento e políticas (289, 129, 9, 12, 196, 431, IEEE_101, 234 e 456), que é a lista da Dimensão 6 e não foi separada por componente; por isso não conta como evidência própria desta dimensão. SCOPUS_639 aponta falta de frameworks de desenho, avaliação e uso.
 
-**Literatura complementar brasileira (fora do corpus de 34 e dos 53 avaliados).** Uma busca exploratória feita em 05/11/2026, fora do protocolo e sem avaliação por Q1–Q8 (Apêndice G), localizou estudos documentais sobre regras institucionais de IA generativa em universidades brasileiras (Apêndice G, B1 a B4) e o parecer CNE/CP 15/26, aprovado em 01/09/2026 e ainda sem homologação (G3). Esses trabalhos descrevem políticas já adotadas, com princípios recorrentes (transparência, integridade acadêmica e supervisão humana) e grau de formalização heterogêneo, mas analisam o conteúdo dos documentos e não medem a efetividade das políticas; por isso não alteram a lacuna declarada abaixo. Esse material não sustenta a síntese nem entrou em nenhuma contagem deste trabalho.
+**Literatura complementar brasileira (fora do corpus de 34 e dos 53 avaliados).** Uma busca exploratória feita em 05/11/2026, fora do protocolo e sem avaliação por Q1–Q8 (Apêndice G), localizou estudos documentais sobre regras institucionais de IA generativa em universidades brasileiras (Apêndice G, B1 a B4) e o parecer CNE/CP 15/26, aprovado em 01/09/2026 e ainda sem homologação (G3). Esses trabalhos descrevem políticas já adotadas, com princípios recorrentes (transparência, integridade acadêmica e supervisão humana) e grau de formalização heterogêneo, mas analisam o conteúdo dos documentos e não medem a efetividade das políticas; por isso não alteram a lacuna declarada abaixo. B2 e B4 foram lidos só no resumo da página, e G3, só por fontes secundárias. Esse material não sustenta a síntese nem entrou em nenhuma contagem deste trabalho. **[Pendente O13, O15, L13]**
 
 **Relação com as demais dimensões.** Estrutura as demais: define o que 2 e 3 exigem, o que 1 permite, quem executa 6 e como 8 acompanha.
 
@@ -482,13 +496,15 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Questões para investigação futura.** Nenhum estudo incluído avalia políticas de IA já adotadas por IES (adoção, conformidade ou efeito). Que modelos de governança funcionam em instituições de portes e contextos distintos?
 
-## 6.8. Monitoramento do impacto e qualidade da evidência
+## 6.8 Monitoramento do impacto e qualidade da evidência
 
 **Definição.** Acompanhamento sistemático dos efeitos do uso de IA na instituição e critérios para julgar a evidência que sustenta cada decisão.
 
 **Justificativa.** A literatura secundária tem limitações que afetam qualquer decisão baseada nela: ausência de avaliação de qualidade dos primários, heterogeneidade alta, viés de publicação, curta duração e sobreposição não medida.
 
 **Evidências nos estudos incluídos.** 17 de 33 estudos sem avaliação da qualidade dos primários (Q5 = Não); nove com I² ≥ 70% (SCOPUS_196, IEEE_132, SCOPUS_9, 1, 380, IEEE_81, SCOPUS_439, 66 e 391); viés de publicação em SCOPUS_380, 456, 593, 66 e 838; efeitos de longo prazo como lacuna em SCOPUS_15, 12, 380, IEEE_101, 234, 391, 66, 594, 852 e 838.
+
+**Literatura complementar brasileira (fora do corpus; não conta como evidência).** Nenhum item do Apêndice G foi mapeado nesta dimensão: a dimensão 8 trata de propriedades do corpus avaliado.
 
 **Relação com as demais dimensões.** Fecha o ciclo com 1 a 7: indicadores de uso, de efeito e de risco alimentam a revisão das regras.
 
@@ -498,12 +514,35 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 
 **Como validar (proposta, não realizado).** Uma validação futura poderia combinar consulta estruturada a especialistas (docentes, gestores, profissionais de TI e de proteção de dados) para refinar as dimensões e um estudo de caso em uma IES para testar a aplicabilidade e os indicadores da dimensão 8. O método de validação deve ser definido com a orientadora.
 
+## 6.9 Revisão final da fundamentação das dimensões
+
+**Objetivo.** Verificar se cada dimensão tem evidência suficiente no corpus de 34 estudos, corrigir vínculos fracos e separar o que vem do corpus do que vem da literatura complementar brasileira. Os vínculos foram conferidos nos PDFs (palavras-chave com leitura do contexto) ou nas fichas; a conferência por assistente de IA não substitui a conferência humana da autora. **[Pendente L12]**
+
+**Regra de classificação (desta revisão final; não é regra do protocolo).** O vínculo é *direto* quando o estudo trata o tema como achado ou recomendação própria; *qualificado* quando a diferença relatada não é significativa ou vale só em um desfecho; *menção breve* quando o tema aparece em uma frase; e *sem valor de evidência* quando a menção cita terceiros na revisão de literatura do próprio estudo, é secundária (uma ou duas ocorrências), é aplicação sem relação com a dimensão ou repete lista já usada em outra dimensão. A suficiência é *adequada* com pelo menos 5 estudos diretos, 2 deles com nota 6,0 ou mais, e pelo menos 5 estudos diretos fora os quatro de IA clássica (cenário A da Seção 4.9); *parcial* com 3 ou 4 estudos diretos ou se faltar alguma dessas condições; *frágil* com 2 ou menos. "Adequada" significa suficiente para sustentar a dimensão como organização do que a literatura aponta, nunca prova de eficácia. **[Pendente O8]**
+
+**Tabela 8 – Suficiência da evidência por dimensão (corpus de 34 estudos)**
+
+| Dimensão | Estudos com vínculo direto | Nota média (equiv. 8) | Diretos com nota ≥ 6,0 | Diretos no cenário A | Vínculos que não são diretos | Suficiência |
+|---|---|---|---|---|---|---|
+| D1 Uso pedagógico orientado | 3 | 5,83 | 1 | 3 | qualificados: IEEE_81, 439; condições de desenho: 391; sem valor de evidência: 26 | Parcial |
+| D2 Integridade e avaliação | 4 | 5,05 | 1 | 4 | menção breve: 196, 456; sem valor de evidência: 117, 159, 26, 431, 639 | Parcial |
+| D3 Privacidade e dados | 11 | 5,29 | 4 | 9 | sem valor de evidência: 639 | Adequada |
+| D4 Equidade e viés | 7 | 4,53 | 1 | 6 | menção breve: 15 | Parcial |
+| D5 Transparência e explicabilidade | 6 | 5,95 | 3 | 5 | — | Adequada |
+| D6 Letramento e formação | 4 | 5,0 | 1 | 4 | tema combinado com D7: 9 estudos (não separável) | Parcial |
+| D7 Políticas e governança | 9 | 4,86 | 2 | 9 | sem valor de evidência: 196, 234, 289, 431, 456 | Adequada |
+| D8 Monitoramento e qualidade da evidência | 17 | 5,81 | 9 | 15 | menção breve: 594 | Adequada |
+
+**Resultado.** A evidência é adequada nas dimensões 3, 5, 7 e 8 e parcial nas dimensões 1 (três estudos diretos, só um com nota de 6,0 ou mais), 2 (quatro estudos diretos de integridade), 4 (sete estudos diretos, só um com nota de 6,0 ou mais e média de 4,53, a mais baixa) e 6 (quatro estudos com tendência separável; os outros nove vêm de categoria combinada com políticas). Nenhuma dimensão tem estudo do corpus que avalie a eficácia de práticas institucionais: a evidência é de menção, de descrição ou, na dimensão 1, de moderador relatado por meta-análises (comparação entre estudos, não teste controlado), e na dimensão 8, de propriedades do próprio corpus. A dimensão 8 não depende de menção: as contagens de I², viés de publicação e avaliação de qualidade vêm de dados dos estudos. O número 17 nesta linha (estudos com vínculo direto, união de três listas) não se confunde com os 17 de 33 estudos sem avaliação de qualidade dos primários. O cenário B (38 estudos) não foi calculado por dimensão, porque a ligação dos quatro estudos pós-corte às dimensões não foi extraída: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]. A classificação não altera as Tabelas 4 a 6, que seguem a regra de menção. **[Pendente O14]**
+
+**Corpus original e literatura complementar brasileira.** As Tabelas 7 e 8 e as Seções 6.1 a 6.8 usam só os 34 estudos incluídos. A literatura complementar brasileira do Apêndice G (busca exploratória de 05/11/2026, fora do protocolo, sem Q1 a Q8) aparece em cada dimensão em parágrafo separado e **não conta como evidência**, não entra em nenhuma contagem e não altera a suficiência da Tabela 8. Mapeamento por dimensão (códigos do Apêndice G): D1, B2, B3 e G4; D2, B1, B2, B3, B4, G2, G3 e G4; D3, B1, B6, G1, G2 e G3; D4, B6 e G1; D5, B2, B3, B6, G1 e G3; D6, B1, B1a, B2, B4, B6, G1 e G4; D7, B1, B1a, B2, B4, B6, G1, G2 e G3; D8, nenhum. O mapeamento foi feito pela autora do documento a partir dos resumos e textos lidos e é interpretativo. **[Pendente O13]**
+
 # 7 Limitações
 
 1. **Avaliadora única.** Triagem, extração e notas Q1–Q8 foram feitas por uma pesquisadora. O κ intra-avaliador do TCC1 (0,466, concordância moderada, em amostra de 10% da triagem por título e resumo, com intervalo mínimo de sete dias) ficou abaixo do mínimo de 0,60 do protocolo; recalibração, tabela de contingência e correção não constam dos documentos: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS]. O κ não cobre a leitura em texto completo deste trabalho, que não tem verificação independente, e há risco de erros de leitura e de pontuação que um segundo revisor poderia detectar.
-2. **Cinco relatórios não recuperados**, três deles meta-análises de efeito (SCOPUS_227, 365 e 970), o que pode enviesar o conjunto por disponibilidade. As tentativas do §4.4 não constam dos documentos: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS].
-3. **Desvios do protocolo, herdados do TCC1** (Apêndice D): duas bases em vez de três (ACM não incorporada); passagem de 968 para 64 (via 74) por seleção intencional baseada no tipo de estudo inferido de título e resumo, de modo que o conjunto não representa os 968; incertos da triagem não reavaliados; duplicatas removidas sem contagem registrada; ausência de data de execução da busca e de pré-registro. As conclusões valem para os estudos analisados e não para toda a literatura secundária sobre IA no ensino superior.
-4. **Pontuação com regras em validação.** A regra por elementos para Q1–Q8, o tratamento de Q5 e o limiar (bruto ou equivalente em 8) aguardam confirmação da orientadora; as células sensíveis têm alternativa registrada, e os resultados por limiar são mostrados nas duas formas.
+2. **Cinco relatórios não recuperados**, três deles meta-análises de efeito (SCOPUS_227, 365 e 970), o que pode enviesar o conjunto por disponibilidade **[Pendente L3]**. As tentativas do §4.4 não constam dos documentos: [INFORMAÇÃO NÃO DISPONÍVEL NOS DOCUMENTOS FORNECIDOS].
+3. **Desvios do protocolo, herdados do TCC1** **[Pendente O10, L1, L2, L6, L9]** (Apêndice D): duas bases em vez de três (ACM não incorporada); passagem de 968 para 64 (via 74) por seleção intencional baseada no tipo de estudo inferido de título e resumo, de modo que o conjunto não representa os 968; incertos da triagem não reavaliados; duplicatas removidas sem contagem registrada; ausência de data de execução da busca e de pré-registro. As conclusões valem para os estudos analisados e não para toda a literatura secundária sobre IA no ensino superior.
+4. **Pontuação com regras em validação.** A regra por elementos para Q1–Q8, o tratamento de Q5 e o limiar (bruto ou equivalente em 8) aguardam confirmação da orientadora **[Pendente O7]**; as células sensíveis têm alternativa registrada, e os resultados por limiar são mostrados nas duas formas.
 5. **Revisão por pares de conferências** (IEEE_132, IEEE_81, IEEE_101, SCOPUS_234, 596 e 968) não verificável nos documentos; os seis estudos foram mantidos com ressalva (R4).
 6. **Sobreposição de evidência não medida** entre as meta-análises, com risco de dupla contagem. O protocolo (§7.5) previa uma matriz de sobreposição por amostragem; ela não foi construída.
 7. **Extração restrita ao texto dos PDFs.** Apêndices e materiais suplementares não foram consultados; a desagregação por nível é limitada em 13 estudos, mantidos com ressalva (R2).
@@ -511,9 +550,9 @@ As implicações abaixo são condicionais e derivam dos limites da evidência, n
 9. **Escopo temporal.** Concentração em 2024–2026 (um estudo de 2019) e corte de busca em 31/03/2026, com quatro registros posteriores ao corte (SCOPUS_130, 277, 476 e 818) excluídos por CI1 (R7). A data de execução da busca não consta dos documentos; se o corte efetivo for a data da busca, esses quatro voltam ao conjunto (Seção 4.9), e estudos publicados depois dela não foram considerados.
 10. **Nível de evidência (F21) e classes de qualidade são julgamentos da autora**, ainda sem concordância entre avaliadores.
 11. **Apoio de assistente de IA** na elaboração das fichas e do texto, com conferência pela autora (Seção 3.6).
-12. **Framework não validado** (Seção 6).
+12. **Framework não validado** (Seção 6). A suficiência da evidência é parcial em quatro das oito dimensões e vale só em termos de menção (Seção 6.9). **[Pendente O8]**
 13. **Decisões de seleção limítrofes.** A inclusão de quatro estudos de IA clássica pelo PICOC do protocolo (SCOPUS_838, 906, 447 e 852; R1) e a exclusão de quatro por data (R7) dependem de confirmação da orientadora; a Seção 4.9 mostra o efeito de cada alternativa nos achados.
-14. **Ausência de estudos brasileiros no corpus e busca complementar exploratória.** Nenhum dos 34 incluídos tem afiliação no Brasil (Seção 4.3), o que limita a aplicação dos achados ao contexto brasileiro. A busca complementar de 05/11/2026 (Apêndice G) foi exploratória, em português e inglês, sem protocolo, sem avaliação de qualidade e sem garantia de exaustividade; alguns documentos localizados não puderam ser lidos, e o parecer CNE/CP 15/26 foi descrito apenas por fontes secundárias.
+14. **Ausência de estudos brasileiros no corpus e busca complementar exploratória** **[Pendente O13, L13]**. Nenhum dos 34 incluídos tem afiliação no Brasil (Seção 4.3), o que limita a aplicação dos achados ao contexto brasileiro. A busca complementar de 05/11/2026 (Apêndice G) foi exploratória, em português e inglês, sem protocolo, sem avaliação de qualidade e sem garantia de exaustividade; alguns documentos localizados não puderam ser lidos, e o parecer CNE/CP 15/26 foi descrito apenas por fontes secundárias.
 
 # 8 Considerações finais
 
@@ -524,7 +563,7 @@ Este trabalho completou a etapa de elegibilidade, qualidade, extração e sínte
 - **RQ3.** Privacidade, dependência, viés, integridade acadêmica e carência de letramento e políticas são os riscos mais citados; metade das revisões com o critério aplicável não avalia a qualidade dos primários.
 - **RQ4.** Efeitos de longo prazo, moderadores, vieses regionais e marcos de governança operacionalizados são as lacunas mais citadas; uso orientado, governança e letramento em IA são as tendências indicadas.
 
-A contribuição do trabalho tem três partes: um conjunto de revisões selecionado por critérios documentados, uma síntese que separa quantidade de estudos de força de evidência e uma proposta conceitual de oito dimensões que declara o que ainda não se sabe sobre cada uma. A principal limitação é o processo de avaliação por uma única pesquisadora, com herança de desvios do TCC1. Como trabalhos futuros, indicam-se: segundo revisor e recalibração; recuperação dos cinco textos; revisão sistemática própria da literatura brasileira sobre governança de IA (Apêndice G); medida da sobreposição entre meta-análises; esclarecimento da data de execução e do corte da busca, com atualização após 31/03/2026; e validação do framework com especialistas e em estudo de caso institucional, possivelmente em um mestrado.
+A contribuição do trabalho tem três partes: um conjunto de revisões selecionado por critérios documentados, uma síntese que separa quantidade de estudos de força de evidência e uma proposta conceitual de oito dimensões que declara o que ainda não se sabe sobre cada uma e a suficiência da evidência em cada uma (adequada em quatro, parcial em quatro, sem evidência de eficácia em nenhuma). A principal limitação é o processo de avaliação por uma única pesquisadora, com herança de desvios do TCC1. Como trabalhos futuros, indicam-se: segundo revisor e recalibração; recuperação dos cinco textos; revisão sistemática própria da literatura brasileira sobre governança de IA (Apêndice G); medida da sobreposição entre meta-análises; esclarecimento da data de execução e do corte da busca, com atualização após 31/03/2026; e validação do framework com especialistas e em estudo de caso institucional, possivelmente em um mestrado.
 
 # Referências
 
@@ -689,7 +728,7 @@ Ver Tabela 5 (Seção 4.6).
 
 # Apêndice E – Regras de decisão
 
-R1 a R7: ver Seção 3.2. Todas aguardam confirmação formal da orientadora.
+R1 a R7: ver Seção 3.2. Todas aguardam confirmação formal da orientadora. **[Pendente O1, O3, O4, O5, O6]**
 
 # Apêndice F – Conferência dos 53 textos completos com as referências e as fichas
 
@@ -772,3 +811,35 @@ Busca exploratória de 05/11/2026 (WebSearch, seis consultas em português e ing
 | G4 | DO CARMO, R. Inteligência Artificial e educação superior: desenvolvimentos, desvios e desafios. UFMG Educativa, 13/06/2025 (atualizado em 04/09/2025). https://www.ufmg.br/comunicacao/noticias/coberturas-especiais/inteligencia-artificial-e-educacao-superior-desenvolvimentos-desvios-e-desafios/ | Reportagens com 11 entrevistados; cita a Comissão Permanente de IA da UFMG (iniciada em 2023, institucionalizada em 2024) | Defendem letramento em IA, diálogo docente-estudante sobre ferramentas permitidas, entrega dos prompts e responsabilidade do autor humano | D6; D1; D2 | Lida (página) |
 
 Localizados e não lidos: UFAM. Diretrizes (documento PDF "DIRETRIZES 18 NOV - Revisada"); Mattos Filho. Consulta pública sobre diretrizes para o uso de IA na educação brasileira. Nenhum dos 53 avaliados tem afiliação no Brasil (Apêndice F).
+
+# Apêndice H – Mapa das decisões e dos dados pendentes (retirar depois da resolução)
+
+Cada marca **[Pendente O#]** (decisão da orientadora) ou **[Pendente L#]** (dado da autora) no texto remete à tabela abaixo. Os documentos `06_documentacao/DECISOES_ORIENTADORA_O1_O15.md` e `06_documentacao/PENDENCIAS_AUTORA_L1_L15.md` trazem contexto, alternativas e o que fornecer. "Altera resultados" indica se a resposta pode mudar o conjunto de estudos, as contagens ou as conclusões.
+
+| Marca | Tema | Trechos do TCC2 | Altera resultados? |
+|---|---|---|---|
+| O1 | Conjunto de 34 e regras R1 a R7 | 3.2, 4.9, 7 (13), Apêndice E | Sim (30, 34 ou 38) |
+| O2 | Papel das âncoras | 3.1 (4) | Não |
+| O3 | CI3 (IA clássica; exclusões) | 3.2 (R1), 4.9 | Sim |
+| O4 | CI2/CE2 | 3.2 (R3) | Sim (32 se CE2 for lido como relato incompleto) |
+| O5 | CI1 e data da busca | 3.2 (R7), 4.9, 7 (9) | Sim (38) |
+| O6 | CI4 (conferências) | 3.2 (R4), 7 (5) | Sim (28 se exigir comprovação) |
+| O7 | Regras de qualidade | 3.5, 7 (4) | Só a classe de alta qualidade |
+| O8 | Escopo do framework e regra da Seção 6.9 | 6 (introdução), 6.9, 7 (12) | Alcance da conclusão |
+| O9 | Nível de evidência F21 | 3.7 | Não |
+| O10 | κ = 0,466 e desvios do TCC1 | 3.1 (2 e 3), 7 (3), Apêndice D | Não (confiabilidade) |
+| O11 | Declaração de uso de IA | 3.6 | Não |
+| O12 | Título, estrutura e modelo UNIPAMPA | Capa, estrutura | Não |
+| O13 | Destino da literatura brasileira | 6.7, 6.9, 7 (14), Apêndice G | Só se for incorporada ao corpus |
+| O14 | Contagem por menção | 3.7, 4.7 (Tabela 6), 6.9 | Contagens de três temas |
+| O15 | Citar B1 no texto | 6.7, Apêndice G | Não |
+| L1 | Data da busca | 3.1 (1), 3.2 (R7) | Pode (O5) |
+| L2 | Duplicatas e ferramenta | 3.1 (1), 7 (3) | Não |
+| L3 | Recuperação dos 5 textos | 3.1, 3.2 (R6), 7 (2) | Pode (3 meta-análises de efeito) |
+| L4 | IDs dos 5 incertos | 3.1 (2) | Não |
+| L5 | Recalibração do κ | 7 (1), Apêndice D | Não |
+| L6 | Pré-registro | 3.1 (1), 7 (3) | Não |
+| L7 a L10 | Identidade de SCOPUS_12, volume e páginas, 74 para 64, nota † | 4.3, Referências, 3.1 (3), Apêndice D | Não |
+| L11 | Versão do modelo de IA | 3.6 | Não |
+| L12 | Conferência humana por amostragem | 3.4, 6.9 | Pode revelar erros |
+| L13 a L15 | Leitura de B1 a B4 e parecer; DOI de SCOPUS_838; grafia "Al Samman" | 6.7, Apêndice G, Referências | Não |

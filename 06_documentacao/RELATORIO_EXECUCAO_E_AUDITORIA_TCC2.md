@@ -428,3 +428,48 @@ Verificado em 05/11/2026 após o envio: o ramo `main` do remoto aponta para o co
 Arquivos confirmados no remoto: `README.md`; `protocolo_atualizado_TCC.pdf`; `material-suplementar/` (2 arquivos); `02_tcc2/TCC2_Documento_Completo.md`; `03_dados/TCC2_Planilha_Auditoria.xlsx`; `03_dados/csv/` (7 CSVs); `03_dados/tcc1/Artigos_Citados_TCC_Funcao.xlsx`; `04_prisma/` (figura e tabela); `05_framework/Framework_8_dimensoes.md`; `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` (versão enviada no commit `6fe85e4`, sem esta seção preenchida); `07_referencias/Referencias_TCC2.md`.
 
 A inclusão desta seção é um segundo commit, verificado do mesmo modo (ver mensagem final da entrega).
+
+## 17. Fechamento do TCC2 (06/11/2026)
+
+Não refez as etapas já concluídas (auditoria, conferência dos 53 PDFs, busca brasileira). Documentos novos: `DECISOES_ORIENTADORA_O1_O15.md` e `PENDENCIAS_AUTORA_L1_L15.md`. O TCC2 foi consolidado, mas **não está finalizado**.
+
+### 17.1 O que está definitivamente concluído
+
+- Fluxo e números: 58 procurados, 5 não recuperados, 53 avaliados, 19 excluídos, 34 incluídos (9 sem ressalvas, 25 com), nota média 5,87. Reconferidos com 75 de 75 conferências numéricas OK e nenhuma divergência entre texto, tabelas e planilha.
+- Conferência dos 53 PDFs (DOI, 1º autor, ano, país, objetivo, Tabela 5, I² e viés de publicação).
+- Todos os 34 incluídos constam na lista de referências; a lista está em ordem alfabética (exceto o par Xia 2025a e 2025b, em ordem de rótulo).
+- Literatura brasileira mantida fora do corpus, sem Q1 a Q8 e sem contagem (Apêndice G).
+
+### 17.2 O que foi corrigido nesta etapa
+
+| Item | Correção |
+|---|---|
+| Tabela 2 | Células truncadas de SCOPUS_838, 852 e 596 completadas com o texto das fichas F08 e F09 (596: número de estudos marcado como não disponível) |
+| Legendas | "Tabela Z" removida (Seção 3.7 e legenda da Tabela 5); legenda da Tabela 6 passou para cima da tabela; nota sobre vínculos breves ou secundários |
+| Framework | Cada vínculo classificado como direto, qualificado, menção breve ou sem valor de evidência (CSV 10 e 06). Tabela 7 corrigida na dimensão 1; Seção 5.7 (ii) qualificada; Seções 6.2, 6.3, 6.4, 6.6 e 6.7 com a classe de cada estudo |
+| Seção 6.9 e Tabela 8 | Regra explícita de suficiência: adequada em D3, D5, D7 e D8; parcial em D1, D2, D4 e D6; nenhuma com evidência de eficácia |
+| Corpus × complementar | Parágrafo separado "Literatura complementar brasileira (fora do corpus; não conta como evidência)" em 6.1 a 6.6 e 6.8 (CSV 12) |
+| Resumo e Abstract | Acrescentados: nenhum dos 34 tem afiliação no Brasil e a suficiência por dimensão |
+| Marcadores | 31 marcas [Pendente O#] ou [Pendente L#] no texto e Apêndice H com o mapa das marcas |
+| Vínculos fracos encontrados | SCOPUS_26 (exatidão e dependência, citando terceiros), 117 (integridade, 1 ocorrência), 639 (privacidade, 2 ocorrências), 391 (disciplina e duração, sem moderador de orientação), IEEE_81 e 439 (sem diferença significativa ou só em um desfecho), 15 (viés, 1 frase), 456 e 196 (menções breves). Nenhuma contagem das Tabelas 4 a 6 mudou (regra de menção, O14) |
+
+### 17.3 O que ainda depende da orientadora
+
+O1 a O15 (ver `DECISOES_ORIENTADORA_O1_O15.md`). **Podem alterar resultados ou conclusões:** O1, O3, O4, O5, O6, O14 e, se a literatura brasileira entrar no corpus, O13.
+
+### 17.4 O que ainda depende da autora
+
+L1 a L15 (ver `PENDENCIAS_AUTORA_L1_L15.md`). **Podem alterar resultados:** L1 (data da busca, com O5), L3 (recuperar 3 meta-análises de efeito). Condição para a defesa: L12 (conferência humana por amostragem).
+
+### 17.5 Problemas científicos ou metodológicos existentes
+
+- κ = 0,466 da triagem (abaixo de 0,60), sem recalibração documentada.
+- Dois "58" e 968 para 64 sem composição documentada; sem data da busca, duplicatas e pré-registro.
+- Cinco relatórios não recuperados, três deles meta-análises de efeito.
+- Conferência dos PDFs feita por IA, sem conferência humana.
+- Suficiência parcial em quatro dimensões; contagens por menção; nenhuma evidência de eficácia; framework não validado.
+- Sobreposição entre meta-análises não medida.
+
+### 17.6 O documento pode ser enviado à orientadora?
+
+Sim, **para revisão**, com as marcas [Pendente] e os dois documentos de decisão. **Não** como versão final: enquanto O1, O3, O4, O5, O6, O14, L1 e L3 estiverem abertos, o conjunto de estudos e as conclusões podem mudar.
