@@ -6,7 +6,7 @@
 
 Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência Artificial no Ensino Superior), com o protocolo, o TCC2, as planilhas, o fluxo PRISMA, o framework e o relatório de auditoria. Metodologia: Kitchenham e Charters, PRISMA 2020 e AMSTAR 2 (inspiração dos critérios de qualidade Q1 a Q8).
 
-**Situação (05/11/2026).** O texto do TCC2 está completo (34 estudos incluídos, 19 excluídos, 5 não recuperados), mas o trabalho **não está concluído**: depende de decisões da orientadora e de informações da autora. Veja o relatório de auditoria, seções 14 e 15.
+**Situação (05/11/2026).** O texto do TCC2 está completo (34 estudos incluídos, 19 excluídos, 5 não recuperados), mas o trabalho **não está concluído**: depende de decisões da orientadora e de informações da autora. Os 53 PDFs foram conferidos contra as referências e o texto (relatório de conferência abaixo). Decisões pendentes: `06_documentacao/DECISOES_PENDENTES_AUTORA_ORIENTADORA.md`.
 
 ## Questões de pesquisa
 
@@ -21,13 +21,16 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 |---|---|
 | `protocolo_atualizado_TCC.pdf` | Protocolo da revisão. Fica na raiz porque o TCC1 cita esse arquivo |
 | `material-suplementar/` | Rastreabilidade do corpus do TCC1 (PDF e XLSX). Fica na raiz pelo mesmo motivo |
-| `02_tcc2/TCC2_Documento_Completo.md` | Texto completo do TCC2 (versão de 04/11/2026) |
+| `02_tcc2/TCC2_Documento_Completo.md` | Texto completo do TCC2 (versão de 04/11/2026, revisada em 05/11/2026; Apêndices F e G novos) |
 | `03_dados/TCC2_Planilha_Auditoria.xlsx` | Planilha com fórmulas: 58 estudos, notas Q1 a Q8, fluxo PRISMA, conferências, desvios, framework, pendências |
-| `03_dados/csv/` | Os mesmos dados em CSV (7 arquivos, numerados de 01 a 07) |
+| `03_dados/csv/` | Os mesmos dados em CSV (10 arquivos, numerados de 01 a 10; 08 = conferência dos 53 PDFs, 09 = literatura complementar brasileira, 10 = dimensões × estudos verificados) |
 | `03_dados/tcc1/` | Planilha de artigos citados no TCC1 |
 | `04_prisma/` | Figura do fluxo PRISMA (`fig1_fluxo_prisma.png`) e a tabela de contagens |
 | `05_framework/Framework_8_dimensoes.md` | Framework conceitual de 8 dimensões, com evidências por estudo |
 | `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` | Relatório de execução e auditoria (15 tópicos) |
+| `06_documentacao/RELATORIO_CONFERENCIA_PDFS_E_BUSCA_BRASIL.md` | Conferência dos 53 PDFs, país, objetivo e contribuição, correções e busca brasileira (05/11/2026) |
+| `06_documentacao/DECISOES_PENDENTES_AUTORA_ORIENTADORA.md` | Lista objetiva do que depende da autora e da orientadora |
+| `08_literatura_complementar/` | Literatura brasileira localizada em busca exploratória. **Fora do corpus de 34 e dos 53** |
 | `07_referencias/Referencias_TCC2.md` | Referências do TCC2 |
 
 ## Como consultar
@@ -37,7 +40,9 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 - **Fluxo PRISMA:** `04_prisma/fig1_fluxo_prisma.png` e `03_fluxo_prisma.csv`.
 - **Desvios entre protocolo e execução:** `04_desvios_protocolo.csv` (22 itens).
 - **Framework e estudos que o sustentam:** `06_framework_rastreabilidade.csv`.
-- **Pendências e alterações:** abas `8_Pendencias` e `9_Alteracoes`.
+- **Pendências e alterações:** abas `8_Pendencias`, `9_Alteracoes` e `13_Decisoes_Novas`.
+- **País, objetivo e contribuição de cada estudo:** `08_conferencia_53_pdfs.csv` ou aba `10_Conferencia_53_PDFs`.
+- **Literatura brasileira (complementar):** `09_literatura_complementar_brasil.csv` ou aba `11_Brasil_Complementar`.
 
 ## Como conferir os resultados
 
@@ -49,7 +54,8 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 
 - Esta organização não substitui a conferência humana por amostragem das fichas contra os PDFs.
 - As fichas F01 a F30, as versões intermediárias e os registros de decisão ficam no Projeto "TCC" do claude.ai, não neste repositório.
-- Nenhum estudo brasileiro foi encontrado nos documentos, mas o país de 52 dos 58 estudos não foi replicado na planilha (relatório, seção 5).
+- Nenhum dos 53 estudos avaliados tem afiliação no Brasil (conferência de 05/11/2026). A literatura brasileira localizada em busca exploratória está em `08_literatura_complementar/` e não integra o corpus.
+- A conferência dos PDFs foi feita por assistente de IA; as fichas ainda precisam de conferência humana por amostragem (L12).
 - Não constam nos documentos: data da busca, número de duplicatas, pré-registro. Estão marcados como pendentes.
 
 ---

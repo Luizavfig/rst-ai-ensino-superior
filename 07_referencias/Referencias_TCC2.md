@@ -3,6 +3,8 @@
 Extraídas sem alteração do TCC2 (versão de 04/11/2026). As 34 referências dos estudos incluídos estão em `03_dados/csv/01_estudos_58.csv` com título, autores, ano e DOI; lacunas (volume, páginas, DOI) estão marcadas como pendência PT8 no relatório.
 
 
+AL SAMMAN, A. M. Harnessing Potential: Meta-Analysis of AI Integration in Higher Education. In: 2024 ASU INTERNATIONAL CONFERENCE IN EMERGING TECHNOLOGIES FOR SUSTAINABILITY AND INTELLIGENT SYSTEMS (ICETSIS), 2024. **Anais** [...]. [S. l.]: [s. n.], 2024. DOI: 10.1109/ICETSIS61505.2024.10459420.
+
 AL-SHABANDAR, R. et al. A Systematic Review for the Implication of Generative AI in Higher Education. **Infocommunications Journal**, v. XVI, n. 3, p. 31-39, 2024. DOI: 10.36244/ICJ.2024.3.3.
 
 BOND, M. et al. A meta systematic review of artificial intelligence in higher education: a call for increased ethics, collaboration, and rigour. **International Journal of Educational Technology in Higher Education**, v. 21, n. 1, art. 4, 2024. DOI: 10.1186/s41239-023-00436-z.
@@ -62,8 +64,6 @@ QU, X. et al. Generative AI Tools in Higher Education: A Meta-Analysis of Cognit
 REHMAN, M.; DAR, M. A.; RASOOL, I. AI literacy at higher education and India's vision Viksit Bharat 2047: a systematic review. **Discover Artificial Intelligence**, v. 5, art. 294, 2025.
 
 ROBERTSHAW, M. B.; ASHER, A. Unethical Numbers? A Meta-analysis of Library Learning Analytics Studies. **Library Trends**, v. 68, n. 1, p. 76-101, 2019.
-
-SAMMAN, A. M. A. Harnessing Potential: Meta-Analysis of AI Integration in Higher Education. In: 2024 ASU INTERNATIONAL CONFERENCE IN EMERGING TECHNOLOGIES FOR SUSTAINABILITY AND INTELLIGENT SYSTEMS (ICETSIS), 2024. **Anais** [...]. [S. l.]: [s. n.], 2024. DOI: 10.1109/ICETSIS61505.2024.10459420.
 
 SEMBEY, R.; HODA, R.; GRUNDY, J. Emerging technologies in higher education assessment and feedback practices: A systematic literature review. **The Journal of Systems and Software**, v. 211, art. 111988, 2024. DOI: 10.1016/j.jss.2024.111988.
 
