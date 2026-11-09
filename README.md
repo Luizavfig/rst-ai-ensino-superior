@@ -8,6 +8,8 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 
 **Situação (05/11/2026).** O texto do TCC2 está completo (34 estudos incluídos, 19 excluídos, 5 não recuperados), mas o trabalho **não está concluído**: depende de decisões da orientadora e de informações da autora. Os 53 PDFs foram conferidos contra as referências e o texto (relatório de conferência abaixo). Decisões pendentes: `06_documentacao/DECISOES_PENDENTES_AUTORA_ORIENTADORA.md`.
 
+**TCC II (versão parcial) no Overleaf:** https://www.overleaf.com/project/6af20bcd999a7b44bedec13e/share#cb7ccd48b0978c624f82da4fe46ba8ff015ba22b9d460814
+
 ## Questões de pesquisa
 
 - **RQ1** Quais são as principais aplicações de IA no Ensino Superior?
