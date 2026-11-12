@@ -1,0 +1,37 @@
+chave_bib,chave_csv,openalex_id,estudos_da_semente_que_citam,posicao_etapa2,situacao,criterio,observacao
+jobin2019,Jobin2019,W2953522645,0,B2 (posição 1),Confirmada,Etapa 2,
+floridi2018,Floridi2018,W2902634493,1,,Confirmada,Etapa 1 (complementar),
+mittelstadt2019,Mittelstadt2019,W2985543011,0,,Substituída,—,"Não citada pelos estudos da semente no OpenAlex; título não recuperado por B1–B11. Substituída por Morley et al. (2020), incluída na Etapa 2 (B2), que trata do mesmo ponto: a distância entre princípios e prática."
+papagiannidis2025,Papagiannidis2025,W4406063062,0,B1 (posição 1),Confirmada,Etapa 2,
+mantymaki2022,Mantymaki2022,W4214629857,0,B1 (posição 9),Confirmada,Etapa 2,
+batool2025,Batool2025,W4406376113,0,B1 (posição 3),Confirmada,Etapa 2,
+raji2020,Raji2020,W3001807593,0,,Substituída,—,"Não citada pela semente; tipo ""conference-paper"" no OpenAlex, fora do filtro article|review registrado. Substituída por Koshiyama et al. (2024), incluída na Etapa 2 (B5), para o papel de auditoria."
+shneiderman2020hcai,Shneiderman2020HCAI,W3013160799,0,B4 (posição 1),Confirmada,Etapa 2,
+shneiderman2020tiis,Shneiderman2020TiiS,W3094233077,0,,Retirada,—,Não citada pela semente; não recuperada por B1–B11. O papel (G1/C1) continua coberto por Shneiderman (2020b; Human-centered artificial intelligence) e pelos documentos normativos.
+amershi2019,Amershi2019,W2916904544,0,,Retirada,—,"Não citada pela semente; tipo ""conference-paper"", fora do filtro registrado. C1 e C5 continuam cobertos (Shneiderman, 2020b; Khosravi et al., 2022; Floridi et al., 2018)."
+molenaar2022,Molenaar2022,W4297183894,0,,Retirada,—,"Não citada pela semente; não recuperada. A frase sobre níveis de automação foi retirada; o candidato Holstein, Aleven e Rummel (2020) não tem resumo no OpenAlex para conferir a afirmação."
+zawacki2019,ZawackiRichter2019,W2981863007,12,,Retirada,—,"Citada por 12 estudos da semente (SC1), mas não atende SC2: a ética é achado secundário de uma revisão de aplicações (resumo). Deixa de ser fonte do framework; R06 passa a se apoiar só no achado do TCC II."
+holmes2022,Holmes2022,W3155263273,2,B3 (posição 1),Confirmada,Etapa 1 (núcleo) e Etapa 2,
+chan2023,Chan2023,W4383312437,4,,Confirmada,Etapa 1 (núcleo),
+moorhouse2023,Moorhouse2023,W4387873511,1,B8 (posição 9); B9 (posição 2),Confirmada,Etapa 1 (complementar) e Etapa 2,
+cotton2024,Cotton2023,W4324046518,1,B8 (posição 1),Confirmada,Etapa 1 (complementar) e Etapa 2,
+perkins2024,Perkins2024,W4394949392,0,B8 (posição 10),Confirmada,Etapa 2,
+baker2022,BakerHawn2022,W3214911045,1,B10 (posição 1),Confirmada,Etapa 1 (complementar) e Etapa 2,
+khosravi2022,Khosravi2022,W4280651558,3,B11 (posição 3),Confirmada,Etapa 1 (núcleo) e Etapa 2,
+slade2013,SladePrinsloo2013,W2087750029,0,,Substituída,—,"Não citada pela semente; o OpenAlex registra o título apenas como ""Learning Analytics"", e a busca B6 não a recupera. Substituída por Pardo e Siemens (2014), incluída na Etapa 2 (B6)."
+tsai2018,Tsai2018,W2905428172,0,,Substituída,—,"Não citada pela semente; não recuperada (o título usa ""policy"", fora dos termos de B6). Substituída por Prinsloo e Slade (2013), incluída na Etapa 1, que avalia políticas institucionais para o uso ético de dados de estudantes."
+ng2021,Ng2021,W3215201135,1,B7 (posição 1),Confirmada,Etapa 1 (complementar) e Etapa 2,
+long2020,LongMagerko2020,W3029022390,0,,Retirada,—,"Não citada pela semente; tipo ""conference-paper"", fora do filtro registrado. C6 continua coberto por Ng et al. (2021) e Chan (2023)."
+kasneci2023,Kasneci2023,W4323655724,1,,Retirada,—,"Citada por 1 estudo da semente (SC1), mas o título não indica contribuição principal em ética, diretrizes ou políticas e não há resumo no OpenAlex (SC2 não verificável). A dependência continua sustentada pelos 10 estudos do corpus."
+jabareen2009,Jabareen2009,,,,Confirmada,Regra de método,
+hevner2004,Hevner2004,,,,Confirmada,Regra de método,
+peffers2007,Peffers2007,,,,Confirmada,Regra de método,
+venable2016,Venable2016,,,,Confirmada,Regra de método,
+prat2015,Prat2015,,,,Confirmada,Regra de método,
+okoli2004,Okoli2004,,,,Confirmada,Regra de método,
+unesco2022,UNESCO2021,,,,Confirmada,Regra normativa,
+miao2023,UNESCO2023,,,,Confirmada,Regra normativa,
+ue2024,EUAIAct2024,,,,Confirmada,Regra normativa,
+nist2023,NIST2023,W4317748910,0,,Confirmada,Regra normativa,
+brasil2018,LGPD2018,,,,Confirmada,Regra normativa,
+brasil2023,PL2338,,,,Confirmada,Regra normativa,

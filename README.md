@@ -29,6 +29,9 @@ Repositório do TCC (revisão sistemática terciária, RST, sobre Inteligência 
 | `03_dados/tcc1/` | Planilha de artigos citados no TCC1 |
 | `04_prisma/` | Figura do fluxo PRISMA (`fig1_fluxo_prisma.png`) e a tabela de contagens |
 | `05_framework/Framework_8_dimensoes.md` | Framework conceitual de 8 dimensões, com evidências por estudo |
+| `05_framework/Revisao_Critica_Framework_2026-11-08.md` | Revisão do framework: duas camadas (G1–G2 e C1–C6), método de derivação, diagnóstico e avaliação analítica (proposta para as orientadoras) |
+| `05_framework/Requisitos_e_Avaliacao_Framework.md` | Enquadramento em Design Science, etapa de requisitos e opções de avaliação do framework |
+| `referencias/selecao_literatura/` | Seleção da literatura de referência do framework (08–09/11/2026): protocolo, as 11 buscas no OpenAlex, resultado, classificação das 36 referências iniciais e ficha de cada uma das 30 referências |
 | `06_documentacao/RELATORIO_EXECUCAO_E_AUDITORIA_TCC2.md` | Relatório de execução e auditoria (17 tópicos) |
 | `06_documentacao/RELATORIO_CONFERENCIA_PDFS_E_BUSCA_BRASIL.md` | Conferência dos 53 PDFs, país, objetivo e contribuição, correções e busca brasileira (05/11/2026) |
 | `06_documentacao/DECISOES_PENDENTES_AUTORA_ORIENTADORA.md` | Lista objetiva do que depende da autora e da orientadora |
